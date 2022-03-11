@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.10)  10 MAR 2022 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.10)  11 MAR 2022 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(c:/texlive/2021/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(c:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -516,8 +516,17 @@ Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
 Package ExtSizes Warning: It is better to use one of the extsizes classes,
  if you can.
 
-(c:/texlive/2021/texmf-dist/tex/latex/extsizes/size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+(c:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+LaTeX Info: Command `\normalsize' is already robust on input line 56.
+LaTeX Info: Redefining \small on input line 58.
+LaTeX Info: Redefining \footnotesize on input line 69.
+LaTeX Info: Redefining \scriptsize on input line 80.
+LaTeX Info: Redefining \tiny on input line 81.
+LaTeX Info: Redefining \large on input line 82.
+LaTeX Info: Redefining \Large on input line 83.
+LaTeX Info: Redefining \LARGE on input line 84.
+LaTeX Info: Redefining \huge on input line 85.
 ))
 (c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -1532,15 +1541,15 @@ e
 * \textheight=731.23584pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-54.36449pt
-* \headheight=14.0pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=14.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=15.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1603,37 +1612,108 @@ your preamble.
  on input line 6.
 
 
-Overfull \hbox (16.17477pt too wide) in paragraph at lines 8--9
-[]\T2A/cmr/m/n/14.4 Ќа про-т€-же-нии по-след-них лет зна-чи-тель-но воз-рос-ла 
-роль ре-сур-са ѕќћ“Ё 
+Overfull \hbox (5.30942pt too wide) in paragraph at lines 9--14
+[]\T2A/cmr/m/n/12 ќдним из ос-нов-ных недо-стат-ков водород-воздушных топ-лив-н
+ых эле-мен-тов на протон-
  []
+
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+15.
+(c:/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+
+LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 15.
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
+5.
+(c:/texlive/2021/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
+(Font)              using `OML/cmr/m/it' instead on input line 15.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 15.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+5.
+(c:/texlive/2021/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
+(Font)              using `OMS/cmr/m/n' instead on input line 15.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 1
+5.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 15.
+
+
+LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 15.
+
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 15
+.
+LaTeX Font Info:    No file PUcmr.fd. on input line 15.
+
+LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 15.
 
 
 AED: lastpage setting LastPage
 [1
 
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.aux<<ot
-1.cmap>>)
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 647BD8B9F2D7BAF511CB6A357EF3B035;350.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43626 strings out of 478276
- 970747 string characters out of 5850489
- 1808979 words of memory out of 5000000
- 61169 multiletter control sequences out of 15000+600000
- 471473 words of font info for 32 fonts, out of 8000000 for 9000
+ 44049 strings out of 478276
+ 978493 string characters out of 5850489
+ 1815868 words of memory out of 5000000
+ 61522 multiletter control sequences out of 15000+600000
+ 481113 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,5n,83p,1149b,1716s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 89i,5n,83p,1448b,1715s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
-live/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on main.pdf (1 page, 12689 bytes).
+live/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2021/
+texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2021/texmf-dist
+/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2021/texmf-dist/fonts/typ
+e1/public/cm-super/sfti1200.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/
+cm-super/sftt1200.pfb>
+Output written on main.pdf (1 page, 100051 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 57 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 

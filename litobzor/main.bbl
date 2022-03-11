@@ -16,5 +16,123 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Nguyen2021}{article}{}
+      \name{author}{6}{}{%
+        {{hash=bea2fb88116e23cfb20c145b076d9e2c}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Huu\bibnamedelima Linh},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e4a15cd95fb8f57cdc022635cca40453}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Jeasu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2319f7dc90f6c51e172185a4e9f97cc1}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Xuan\bibnamedelima Linh},
+           giveni={X\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3ec3540e8f0c2ab8c91526ef5c1aa158}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Sangseok},
+           giveni={S\bibinitperiod}}}%
+        {{hash=620718d2f667e6fe1b7c80ec139261c7}{%
+           family={Goo},
+           familyi={G\bibinitperiod},
+           given={Young-Mo},
+           giveni={Y\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=23e1559599935492654f083e9c33688a}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Duc\bibnamedelima Dung},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6deca6d8d6e0ef389243ed2d913c3bf3}
+      \strng{fullhash}{1935f429800fd4eb46d4aaf94e196f46}
+      \strng{bibnamehash}{6deca6d8d6e0ef389243ed2d913c3bf3}
+      \strng{authorbibnamehash}{6deca6d8d6e0ef389243ed2d913c3bf3}
+      \strng{authornamehash}{6deca6d8d6e0ef389243ed2d913c3bf3}
+      \strng{authorfullhash}{1935f429800fd4eb46d4aaf94e196f46}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Citation: Nguyen, H.L.; Han, J.; Nguyen, X.L.; Yu, S.; Goo, Y.-M.; Le, D.D. Review of the Durability of Polymer Electrolyte Membrane Fuel Cell in Long-Term Operation: Main Influencing Parameters and Testing Protocols. Energies 2021, 14, 4048. Abstract: Durability is the most pressing issue preventing the efficient commercialization of polymer electrolyte membrane fuel cell (PEMFC) stationary and transportation applications. A big barrier to overcoming the durability limitations is gaining a better understanding of failure modes for user profiles. In addition, durability test protocols for determining the lifetime of PEMFCs are important factors in the development of the technology. These methods are designed to gather enough data about the cell/stack to understand its efficiency and durability without causing it to fail. They also provide some indication of the cell/stack's age in terms of changes in performance over time. Based on a study of the literature, the fundamental factors influencing PEMFC long-term durability and the durability test protocols for both PEMFC stationary and transportation applications were discussed and outlined in depth in this review. This brief analysis should provide engineers and researchers with a fast overview as well as a useful toolbox for investigating PEMFC durability issues.}
+      \field{title}{Review of the Durability of Polymer Electrolyte Membrane Fuel Cell in Long-Term Operation: Main Influencing Parameters and Testing Protocols}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3390/en14134048
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/en14134048
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/en14134048
+      \endverb
+      \keyw{PEM,degradation,durability,fuel cells,hydrogen,test protocol}
+    \endentry
+    \entry{Yonoff2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f2f29417ff73300d35b08960c33d57ba}{%
+           family={Yonoff},
+           familyi={Y\bibinitperiod},
+           given={Rony\bibnamedelima Escobar},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=325dc893fc416c6e3a846d664e36c363}{%
+           family={Ochoa},
+           familyi={O\bibinitperiod},
+           given={Guillermo\bibnamedelima Valencia},
+           giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=e7093bcc7811137b138d9ab603dd8368}{%
+           family={Cardenas-Escorcia},
+           familyi={C\bibinithyphendelim E\bibinitperiod},
+           given={Yulineth},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e8e7fa3291e5e9ea085b910e32b962bf}{%
+           family={Silva-Ortega},
+           familyi={S\bibinithyphendelim O\bibinitperiod},
+           given={Jorge\bibnamedelima Iván},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=5fc4c4701341e6a9c16573817fc191d2}{%
+           family={Meriño-Stand},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={Lourdes},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c5285482320c0e54c0f2e23ce17085ee}
+      \strng{fullhash}{a65d90bc6341d253ecb39af758c91fc3}
+      \strng{bibnamehash}{c5285482320c0e54c0f2e23ce17085ee}
+      \strng{authorbibnamehash}{c5285482320c0e54c0f2e23ce17085ee}
+      \strng{authornamehash}{c5285482320c0e54c0f2e23ce17085ee}
+      \strng{authorfullhash}{a65d90bc6341d253ecb39af758c91fc3}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A bibliometric analysis of proton exchange membrane fuel cells (PEMFCs) content from a total of 15.020 research publications was conducted between 2008 and 2018, the papers being detailed in the online version of SCI-Expanded, Thomson Reuters Web of Science. Data processing tools such as Hitscite, CiteSpace, ArcGIS and Ucinet 6 were used to process the information. The parameters analyzed in the analysis were: type of document; the language of publication; volume and characteristics of publication output; publication by journals; performance of countries and research institutions; research trends and visibility. The study showed that "Fuel'', "Cell", "Membrane “and “Proton” were found in most of the titles of the documents, while "Performance", "Pemfc”, “Pem Fuel Cell” and “Fuel Cell” were the keywords most commonly used in documents. The analysis found that PEMFC studies have tended to be growing and that leading peer-reviewed journals have produced numerous publications on the subject. The investigation revealed that the country with the most significant production in the field is USA with a contribution of 3009; 20\% of the total publications. Followed by China 2480; 16.5\%, South Korea 1273; 8.5\% and Germany 1121; 7.5\%, showing to the main world powers as the most significant contributors to the research.}
+      \field{issn}{2405-8440}
+      \field{issue}{5}
+      \field{journaltitle}{Heliyon}
+      \field{month}{5}
+      \field{title}{Research trends in proton exchange membrane fuel cells during 2008–2018: A bibliometric analysis}
+      \field{volume}{5}
+      \field{year}{2019}
+      \field{pages}{e01724}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/J.HELIYON.2019.E01724
+      \endverb
+      \keyw{Energy}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
