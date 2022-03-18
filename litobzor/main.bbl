@@ -713,6 +713,53 @@
       \endverb
       \keyw{Crack,Liquid water transport,Micro porous layer,PEMFC,Soft X-ray radiography,Surface morphology}
     \endentry
+    \entry{Shmidt2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2bd718506a7b6babe5fd8f1729dd848b}{%
+           family={Schmidt-Rohr},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8b8805250fb5a57cfbae360547a18706}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nat Mater}%
+      }
+      \strng{namehash}{231de687d029ca7343021206192a3588}
+      \strng{fullhash}{231de687d029ca7343021206192a3588}
+      \strng{bibnamehash}{231de687d029ca7343021206192a3588}
+      \strng{authorbibnamehash}{231de687d029ca7343021206192a3588}
+      \strng{authornamehash}{231de687d029ca7343021206192a3588}
+      \strng{authorfullhash}{231de687d029ca7343021206192a3588}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The structure of the Nafion ionomer used in proton-exchange membranes of H 2 /O 2 fuel cells has long been contentious. Using a recently introduced algorithm, we have quantitatively simulated previously published small-angle scattering data of hydrated Nafion. The characteristic ionomer peak arises from long parallel but otherwise randomly packed water channels surrounded by partially hydrophilic side branches, forming inverted-micelle cylinders. At 20 vol\% water, the water channels have diameters of between 1.8 and 3.5 nm, with an average of 2.4 nm. Nafion crystallites (10 vol\%), which form physical crosslinks that are crucial for the mechanical properties of Nafion films, are elongated and parallel to the water channels, with cross-sections of (5 nm) 2. Simulations for various other models of Nafion, including Gierkes cluster and the polymer-bundle model, do not match the scattering data. The new model can explain important features of Nafion, including fast diffusion of water and protons through Nafion and its persistence at lowtemperatures. © 2008 Nature Publishing Group.}
+      \field{issn}{1476-1122}
+      \field{issue}{1}
+      \field{journaltitle}{Nature Materials}
+      \field{month}{1}
+      \field{title}{Parallel cylindrical water nanochannels in Nafion fuel-cell membranes}
+      \field{volume}{7}
+      \field{year}{2008}
+      \field{pages}{75\bibrangedash 83}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/nmat2074
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/nmat2074
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/nmat2074
+      \endverb
+      \keyw{Klaus Schmidt-Rohr,MEDLINE,NCBI,NIH,NLM,National Center for Biotechnology Information,National Institutes of Health,National Library of Medicine,PubMed Abstract,Qiang Chen,doi:10.1038/nmat2074,pmid:18066069}
+    \endentry
     \entry{Shearing2011}{article}{}
       \name{author}{7}{}{%
         {{hash=23fda2cdaf43f9517d551fcfe4356b6a}{%
