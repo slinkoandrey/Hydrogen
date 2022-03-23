@@ -226,7 +226,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{<p>Fuel cells, especially those for transportation applications, must operate over a wide range of operating and cycling conditions. The desired operating range encompasses temperatures from well below the freezing point to well above the boiling point of water, relative humidity from ambient to saturated, and half-cell potentials from 0 to &gt;1.5 V. Furthermore, the anode may be exposed to both hydrogen and air during different parts of the driving and start/stop cycles. Transportation fuel cell operation is greatly exacerbated by the transient and cyclic nature of the operating conditions. The cell/stack conditions cycle, sometimes quite rapidly, between high and low voltage, temperature, humidity, and gas composition. The cycling results in physical and chemical changes to components, sometimes with catastrophic results. This document describes DOE durability targets and the status of current fuel cell technology as well as accelerated stress test (AST) protocols to assess the performance and durability of PEM fuel cell components.</p>}
-      \field{isbn}{9781566775823}
       \field{issn}{1938-5862}
       \field{issue}{1}
       \field{journaltitle}{ECS Transactions}
@@ -244,6 +243,72 @@
       \endverb
       \verb{url}
       \verb https://iopscience.iop.org/article/10.1149/1.2781004
+      \endverb
+    \endentry
+    \entry{Imai2009}{article}{}
+      \name{author}{6}{}{%
+        {{hash=d10efc54c9fcdeaa725a4dcdd66cbcd8}{%
+           family={Imai},
+           familyi={I\bibinitperiod},
+           given={Hideto},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c5fdfc054141e2c18a6464ffde987bf0}{%
+           family={Izumi},
+           familyi={I\bibinitperiod},
+           given={Koichi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3efd4b07ab488acbb394bf617e7d9ef4}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={Masashi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3d01d483e2cd05fdd30790e50931362f}{%
+           family={Kubo},
+           familyi={K\bibinitperiod},
+           given={Yoshimi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5d080e4177757ddfb93b842f370018f8}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={Kazuo},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0416d4619737f0d7d5e91b7182bc8055}{%
+           family={Imai},
+           familyi={I\bibinitperiod},
+           given={Yasuhiko},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{325cd84aba237fc4f8a08a6c9bd79d24}
+      \strng{fullhash}{cee379a894def94e23474cdca5b89152}
+      \strng{bibnamehash}{325cd84aba237fc4f8a08a6c9bd79d24}
+      \strng{authorbibnamehash}{325cd84aba237fc4f8a08a6c9bd79d24}
+      \strng{authornamehash}{325cd84aba237fc4f8a08a6c9bd79d24}
+      \strng{authorfullhash}{cee379a894def94e23474cdca5b89152}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The electrochemical oxidation behaviors of the surfaces of platinum nanoparticles, one of the key phenomena in fuel cell developments, were investigated in situ and in real time, via time-resolved hard X-ray diffraction and energy dispersive X-ray absorption spectroscopy. Combining two complementary structural analyses, dynamical and inhomogenous structural changes occurring at the surfaces of nanoparticles were monitored on an atomic level with a time resolution of less than 1 s. After oxidation at 1.4 V vs RHE (reversible hydrogen electrode) in a 0.5 M H2SO4 solution, longer Pt-O bonds (2.2-2.3 A that can be assigned to OHH and/or OH species) were first formed on the surface through the partial oxidation of water molecules. Next, these species turned to shorter Pt-0 bonds (2.0 Å, adsorbed atomic oxygen), and atomic oxygen was incorporated into the inner part of the nanoparticles, forming an initial monolayer oxide that had α-PtO 2-like local structures with expanded Pt-Pt bonds (3.1 Å). Finally, quasi-three-dimensional oxides with longer Pt-(O)-Pt bonds (3.5 A, precursor for β-PtO2) grew on the surface, at almost 100 s after oxidation. Despite the very complex oxidation mechanism on the atomic level, XANES analysis indicated that the charge transfer from platinum to the adsorbed oxygen species was almost constant and rather small, that is, about 0.5 electrons per oxygen, up to two monolayers of oxygen. This means that ionic polarization hardly develops at this stage of the surface platinum's "oxide" growth. © 2009 American Chemical Society.}
+      \field{issn}{00027863}
+      \field{issue}{17}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{month}{5}
+      \field{title}{In situ and real-time monitoring of oxide growth in a few monolayers at surfaces of platinum nanoparticles in aqueous media}
+      \field{volume}{131}
+      \field{year}{2009}
+      \field{pages}{6293\bibrangedash 6300}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/JA810036H/SUPPL_FILE/JA810036H_SI_001.PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/abs/10.1021/ja810036h
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/abs/10.1021/ja810036h
       \endverb
     \endentry
     \entry{Izzo2008}{article}{}
@@ -297,12 +362,12 @@
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A high-resolution, nondestructive X-ray computed tomography (XCT) technique is applied to image the three-dimensional (3D) microstructure of a solid oxide fuel cell (SOFC) composed of a solid yttria-stabilized zirconia (YSZ) electrolyte and a porous nickel YSZ (Ni-YSZ) anode. The X-ray microscope uses the 8 keV Cu K alpha line from a laboratory X-ray source, with a reflective condenser optic lens providing a spatial resolution of 42.7~nm. The reconstructed volume data is visualized as 3D images and further postprocessed in binary-image format to obtain structural parameters. The porosity is calculated using a voxel counting method, and tortuosity is evaluated by solving the Laplace equation. A 3D representation of the microstructure is used to calculate true structural parameters and carry out a detailed study of the gas transport within an SOFC electrode at the pore scale. Simulation of multicomponent mass transport and electrochemical reactions in the anode microstructure using the XCT data as geometric input illustrate the impact of this technique on SOFC modeling. (c) 2008 The Electrochemical Society.}
+      \field{abstract}{A high-resolution, nondestructive X-ray computed tomography (XCT) technique is applied to image the three-dimensional (3D) microstructure of a solid oxide fuel cell (SOFC) composed of a solid yttria-stabilized zirconia (YSZ) electrolyte and a porous nickel YSZ (Ni-YSZ) anode. The X-ray microscope uses the 8 keV Cu K alpha line from a laboratory X-ray source, with a reflective condenser optic lens providing a spatial resolution of 42.7 nm. The reconstructed volume data is visualized as 3D images and further postprocessed in binary-image format to obtain structural parameters. The porosity is calculated using a voxel counting method, and tortuosity is evaluated by solving the Laplace equation. A 3D representation of the microstructure is used to calculate true structural parameters and carry out a detailed study of the gas transport within an SOFC electrode at the pore scale. Simulation of multicomponent mass transport and electrochemical reactions in the anode microstructure using the XCT data as geometric input illustrate the impact of this technique on SOFC modeling. (c) 2008 The Electrochemical Society.}
       \field{issn}{00134651}
       \field{issue}{5}
       \field{journaltitle}{Journal of The Electrochemical Society}
       \field{month}{3}
-      \field{title}{Nondestructive Reconstruction and Analysis of SOFC Anodes Using X-ray Computed Tomography at Sub-50~nm Resolution}
+      \field{title}{Nondestructive Reconstruction and Analysis of SOFC Anodes Using X-ray Computed Tomography at Sub-50 nm Resolution}
       \field{volume}{155}
       \field{year}{2008}
       \field{pages}{B504}
@@ -368,8 +433,8 @@
       \endverb
       \keyw{Gas diffusion layer,Liquid water,Micro-porous layer,Polymer electrolyte membrane fuel cell,Synchrotron X-ray radiography,Water management}
     \endentry
-    \entry{Martens2019}{article}{}
-      \name{author}{13}{}{%
+    \entry{Martens2021}{article}{}
+      \name{author}{21}{}{%
         {{hash=2e4eac773798764c6902174ea5608d89}{%
            family={Martens},
            familyi={M\bibinitperiod},
@@ -380,31 +445,61 @@
            familyi={V\bibinitperiod},
            given={Antonis},
            giveni={A\bibinitperiod}}}%
-        {{hash=44e4db2cafa487555e2944105b5f8ef9}{%
+        {{hash=8a1debadde716c9283ae848d2cf1ada0}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5525566e98f4ce1bf7ecc6b9283dddb3}{%
            family={Chattot},
            familyi={C\bibinitperiod},
-           given={Raphael},
+           given={Raphaël},
            giveni={R\bibinitperiod}}}%
-        {{hash=dc1861a9dbabbd335210a78ff5f85d86}{%
-           family={Blanco},
-           familyi={B\bibinitperiod},
-           given={Maria\bibnamedelima V.},
-           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=e6ec3615e4891d90cfa5fdf90bb1a843}{%
-           family={Rasola},
-           familyi={R\bibinitperiod},
-           given={Miika},
-           giveni={M\bibinitperiod}}}%
         {{hash=e86721b5ffe4258badff8c9a5c5d445d}{%
            family={Pusa},
            familyi={P\bibinitperiod},
            given={Janne},
            giveni={J\bibinitperiod}}}%
-        {{hash=84968f15bd49944be449e3356e928f4d}{%
-           family={Jacques},
-           familyi={J\bibinitperiod},
-           given={Simon\bibnamedelima D.M.},
-           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=27cf792eaa1fbe4676e3aa50182b406b}{%
+           family={Blanco},
+           familyi={B\bibinitperiod},
+           given={Maria\bibnamedelima Valeria},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=b59e7807d11a792995eafc2b1f776aa4}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Elizabeth\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=927ab963fd9543bf3b58d97244aa8556}{%
+           family={Asset},
+           familyi={A\bibinitperiod},
+           given={Tristan},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e9d4767dc27f016fd34c2473b3379b4d}{%
+           family={Escribano},
+           familyi={E\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ec877a5db9105f6e4bcb0fd3cf7d0329}{%
+           family={Micoud},
+           familyi={M\bibinitperiod},
+           given={Fabrice},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c6712877779907a70bdf559782403043}{%
+           family={Starr},
+           familyi={S\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=01e45dbbdf987386a2723c8bcd3a24a9}{%
+           family={Coelho},
+           familyi={C\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2b33227c08e6a0b110c5119fe0f79495}{%
+           family={Honkimäki},
+           familyi={H\bibinitperiod},
+           given={Veijo},
+           giveni={V\bibinitperiod}}}%
         {{hash=d8ca8f01e7bb28a445efd72ce2a03be0}{%
            family={Bizzotto},
            familyi={B\bibinitperiod},
@@ -415,21 +510,31 @@
            familyi={W\bibinitperiod},
            given={David\bibnamedelima P.},
            giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=e2d07662dc954af13b389963d00d2bad}{%
-           family={Ruffmann},
-           familyi={R\bibinitperiod},
-           given={Bastian},
-           giveni={B\bibinitperiod}}}%
-        {{hash=ac394239d5a2f769b9a0c4a9799c1838}{%
-           family={Heidemann},
-           familyi={H\bibinitperiod},
-           given={Stefan},
+        {{hash=84968f15bd49944be449e3356e928f4d}{%
+           family={Jacques},
+           familyi={J\bibinitperiod},
+           given={Simon\bibnamedelima D.M.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e4ae2c94cc45f1a2913b53963e46c977}{%
+           family={Maillard},
+           familyi={M\bibinitperiod},
+           given={Frédéric},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6c68365877de0d10a19b23877acc7b22}{%
+           family={Dubau},
+           familyi={D\bibinitperiod},
+           given={Laetitia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4f7c678a1d74e3bd018ed92f19dd292b}{%
+           family={Lyonnard},
+           familyi={L\bibinitperiod},
+           given={Sandrine},
            giveni={S\bibinitperiod}}}%
-        {{hash=2b33227c08e6a0b110c5119fe0f79495}{%
-           family={Honkimäki},
-           familyi={H\bibinitperiod},
-           given={Veijo},
-           giveni={V\bibinitperiod}}}%
+        {{hash=a94933124af0f8d92c0eac115067b4da}{%
+           family={Morin},
+           familyi={M\bibinitperiod},
+           given={Arnaud},
+           giveni={A\bibinitperiod}}}%
         {{hash=3848738924ea9119a43046a0b7356ecb}{%
            family={Drnec},
            familyi={D\bibinitperiod},
@@ -437,37 +542,116 @@
            giveni={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Elsevier}%
+        {American Chemical Society}%
       }
       \strng{namehash}{3603e7b102a8b4394ccfa4083a3df499}
-      \strng{fullhash}{a1f3927f3a99ed0a8de131b8cb468833}
+      \strng{fullhash}{69f5037e3810b5ea6ea72dde8e561e06}
       \strng{bibnamehash}{3603e7b102a8b4394ccfa4083a3df499}
       \strng{authorbibnamehash}{3603e7b102a8b4394ccfa4083a3df499}
       \strng{authornamehash}{3603e7b102a8b4394ccfa4083a3df499}
-      \strng{authorfullhash}{a1f3927f3a99ed0a8de131b8cb468833}
+      \strng{authorfullhash}{69f5037e3810b5ea6ea72dde8e561e06}
+      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We have constructed a 5 cm2 proton exchange membrane hydrogen fuel cell optimized for transparency of high energy X-rays. This cell allows for in situ elastic scattering measurements (WAXS, SAXS) during electrochemical operation with minimal trade-offs in cell performance vs benchtop designs, and is capable of reaching automotive current densities. A key feature is that the beam enters the cell at grazing incidence to the electrodes, massively increasing the effective pathlength and therefore the signal-to-background ratio. The 360∘ transparency in the plane of the sample permits imaging coupled with advanced techniques, such as X-ray diffraction computed tomography.}
-      \field{issn}{03787753}
-      \field{journaltitle}{Journal of Power Sources}
-      \field{month}{10}
-      \field{title}{X-ray transparent proton-exchange membrane fuel cell design for in situ wide and small angle scattering tomography}
-      \field{volume}{437}
-      \field{year}{2019}
-      \field{pages}{226906}
-      \range{pages}{1}
+      \field{abstract}{The proliferation of hydrogen fuel cell systems is hindered by a degradation of the platinum catalyst. Here, we provide a device-level assessment of the catalyst degradation phenomena and its coupling to nanoscale hydration gradients, using advanced operando X-ray scattering tomography tailored for device-scale imaging. Gradients formed inside the fuel cell produce a heterogeneous degradation of the catalyst nanostructure, which can be linked to the flow field design and water distribution in the cell. Striking differences in catalyst degradation are observed between operating fuel cell devices and the liquid cell routinely used for catalyst stability studies, highlighting the crucial impact of the complex operating environment on the catalyst degradation phenomena. This degradation knowledge gap accentuates the necessity of multimodal, in situ characterization of real devices when assessing the performance and durability of electrocatalysts and, more generally, electrochemically active phases used in energy conversion and storage technologies.}
+      \field{issn}{23808195}
+      \field{issue}{8}
+      \field{journaltitle}{ACS Energy Letters}
+      \field{month}{8}
+      \field{title}{Imaging Heterogeneous Electrocatalyst Stability and Decoupling Degradation Mechanisms in Operating Hydrogen Fuel Cells}
+      \field{volume}{6}
+      \field{year}{2021}
+      \field{pages}{2742\bibrangedash 2749}
+      \range{pages}{8}
       \verb{doi}
-      \verb 10.1016/j.jpowsour.2019.226906
+      \verb 10.1021/ACSENERGYLETT.1C00718/SUPPL_FILE/NZ1C00718_SI_001.PDF
       \endverb
       \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775319308997
+      \verb https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c00718
       \endverb
       \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775319308997
+      \verb https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c00718
       \endverb
-      \keyw{PEMFC,Tomography,X-ray scattering,XRD-CT}
+    \endentry
+    \entry{Martens2019}{article}{}
+      \name{author}{8}{}{%
+        {{hash=2e4eac773798764c6902174ea5608d89}{%
+           family={Martens},
+           familyi={M\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+        {{hash=44e4db2cafa487555e2944105b5f8ef9}{%
+           family={Chattot},
+           familyi={C\bibinitperiod},
+           given={Raphael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e6ec3615e4891d90cfa5fdf90bb1a843}{%
+           family={Rasola},
+           familyi={R\bibinitperiod},
+           given={Miika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=27cf792eaa1fbe4676e3aa50182b406b}{%
+           family={Blanco},
+           familyi={B\bibinitperiod},
+           given={Maria\bibnamedelima Valeria},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=2b33227c08e6a0b110c5119fe0f79495}{%
+           family={Honkimäki},
+           familyi={H\bibinitperiod},
+           given={Veijo},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d8ca8f01e7bb28a445efd72ce2a03be0}{%
+           family={Bizzotto},
+           familyi={B\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d945c048950a466d08049ea72ef6f3ee}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=3848738924ea9119a43046a0b7356ecb}{%
+           family={Drnec},
+           familyi={D\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{3603e7b102a8b4394ccfa4083a3df499}
+      \strng{fullhash}{034b6989cdab32f11c9db1cf1aa06fd9}
+      \strng{bibnamehash}{3603e7b102a8b4394ccfa4083a3df499}
+      \strng{authorbibnamehash}{3603e7b102a8b4394ccfa4083a3df499}
+      \strng{authornamehash}{3603e7b102a8b4394ccfa4083a3df499}
+      \strng{authorfullhash}{034b6989cdab32f11c9db1cf1aa06fd9}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The processes leading to degradation of Pt nanoparticles inside commercial hydrogen fuel cell catalyst layers are studied in situ, using time-resolved high-energy powder X-ray diffraction. Advances in electrochemical cell design significantly increase the quality of diffraction patterns obtained at practical catalyst loadings at high temporal resolution and allow the use of advanced techniques including differential pair distribution function analysis. Rietveld refinement of the lattice parameter and peak intensities during cyclic voltammetry or potential steps allow the separate steps of oxygen electroadsorption and place exchange in the Pt oxide growth mechanism to be clearly differentiated. The slow kinetics of the place-exchange process limit the oxide growth under standard laboratory conditions, decoupling the surface chemistry of the nanoparticles from the applied potential and directly affecting the outcome of accelerated stress tests measured with different cycling schemes. High-speed diffraction measurements are also used to follow the oxide reduction reaction, which is much faster. Refined structural parameters from these data show direct evidence for a transient, disordered platinum intermediate created during reduction of the oxide, which is likely responsible for catalyst dissolution when cycling to high potentials.}
+      \field{issn}{25740962}
+      \field{issue}{11}
+      \field{journaltitle}{ACS Applied Energy Materials}
+      \field{month}{11}
+      \field{title}{Probing the Dynamics of Platinum Surface Oxides in Fuel Cell Catalyst Layers Using in Situ X-ray Diffraction}
+      \field{volume}{2}
+      \field{year}{2019}
+      \field{pages}{7772\bibrangedash 7780}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1021/ACSAEM.9B00982/SUPPL_FILE/AE9B00982_SI_001.PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/abs/10.1021/acsaem.9b00982
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/abs/10.1021/acsaem.9b00982
+      \endverb
+      \keyw{Pt oxide,fuel cell,high energy X-rays,pair distribution function,place exchange,spectroelectrochemistry,synchrotron diffraction}
     \endentry
     \entry{Nguyen2021}{article}{}
       \name{author}{6}{}{%
@@ -534,76 +718,61 @@
       \keyw{PEM,degradation,durability,fuel cells,hydrogen,test protocol}
     \endentry
     \entry{Okonkwo2021}{article}{}
-      \name{author}{7}{}{%
+      \name{author}{4}{}{%
         {{hash=aa11960f4f987a39240c0fc4dfe5052e}{%
            family={Okonkwo},
            familyi={O\bibinitperiod},
            given={Paul\bibnamedelima C.},
            giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=b9d1afbbdcdc7fd41a6b03d694d43556}{%
-           family={Ige},
-           familyi={I\bibinitperiod},
-           given={Oladeji\bibnamedelima O.},
-           giveni={O\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
-        {{hash=a4133676cd51d1506bd29e0880bd5c7b}{%
-           family={Barhoumi},
+        {{hash=cfeabd536e4ed248f8215722f81a2483}{%
+           family={Belgacem},
            familyi={B\bibinitperiod},
-           given={El\bibnamedelima Manaa},
-           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=7d73c4af9837c6584d39a110fc804b01}{%
-           family={Uzoma},
-           familyi={U\bibinitperiod},
-           given={Paul\bibnamedelima C.},
-           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           given={Ikram\bibnamedelima Ben},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
         {{hash=f69be0cccfe552cdbf6b5180d84de832}{%
            family={Emori},
            familyi={E\bibinitperiod},
            given={Wilfred},
            giveni={W\bibinitperiod}}}%
-        {{hash=ce01e3c6b362646de18500bdfa0e9d70}{%
-           family={Benamor},
-           familyi={B\bibinitperiod},
-           given={Abdelbaki},
-           giveni={A\bibinitperiod}}}%
-        {{hash=de8065d767d6c4174df30c18cbbf2b6c}{%
-           family={Abdullah},
-           familyi={A\bibinitperiod},
-           given={Aboubakr\bibnamedelima M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7d73c4af9837c6584d39a110fc804b01}{%
+           family={Uzoma},
+           familyi={U\bibinitperiod},
+           given={Paul\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Pergamon}%
       }
       \strng{namehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
-      \strng{fullhash}{8fa77f5f81ca4e4926dcb57cecd04dfa}
+      \strng{fullhash}{3aec74017e208d7a1388377632e05e7b}
       \strng{bibnamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
       \strng{authorbibnamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
       \strng{authornamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
-      \strng{authorfullhash}{8fa77f5f81ca4e4926dcb57cecd04dfa}
+      \strng{authorfullhash}{3aec74017e208d7a1388377632e05e7b}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Proton Exchange Membrane Fuel Cells (PEMFCs) have the perspective to intensely decrease global emission through environmentally-friendly potential. This review paper summarizes the degradation of platinum catalyst layer that has become a significant issue in the improvement of PEMFCs. The review intends to categorise and provide a clear understanding between disintegration and agglomerate that occurs during platinum degradation. In each process, different degradation mechanisms and their migration processes are presented. The improvement in platinum degradation as a function of increasing the performance of PEMFC is established. Prospects for addressing platinum degradation through the exploration of further experimental and numerical research are recommended. Lastly, this paper through recommendation attempts to prevent platinum degradation and reduces high costs associated with the replacement of catalysts in the PEMFCs.}
+      \field{abstract}{Nafion is one of the polymer materials used as polymer electrode membrane (PEM) for fuel cells. However, the electrochemical reaction and water management processes that occur at the catalyst layer affect the performance and degradation of the membrane in the fuel cell resulting in various degradation mechanisms. Understanding the degradation mechanisms of the Nafion membrane in operation, the anhydrous and electrochemical conditions in the fuel cell is highly a necessity as outlined in this review. This review further recommends that further improvement in the Nafion membrane can be made by fabrication and coating the Nafion membrane with materials that can withstand the electrochemical environment in the fuel cell.}
       \field{issn}{03603199}
-      \field{issue}{29}
+      \field{issue}{55}
       \field{journaltitle}{International Journal of Hydrogen Energy}
-      \field{month}{4}
-      \field{title}{Platinum degradation mechanisms in proton exchange membrane fuel cell (PEMFC) system: A review}
+      \field{month}{8}
+      \field{title}{Nafion degradation mechanisms in proton exchange membrane fuel cell (PEMFC) system: A review}
       \field{volume}{46}
       \field{year}{2021}
-      \field{pages}{15850\bibrangedash 15865}
-      \range{pages}{16}
+      \field{pages}{27956\bibrangedash 27973}
+      \range{pages}{18}
       \verb{doi}
-      \verb 10.1016/j.ijhydene.2021.02.078
+      \verb 10.1016/j.ijhydene.2021.06.032
       \endverb
       \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360319921005814
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360319921021832
       \endverb
       \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360319921005814
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360319921021832
       \endverb
-      \keyw{Catalyst layer,Degradation,Fuel cell,Membrane,Platinum,Proton}
+      \keyw{Degradation,Electrodes,Hydrogen,Mechanism,Nafion membrane,Oxygen}
     \endentry
     \entry{Prokop2020}{article}{}
       \name{author}{3}{}{%
@@ -713,7 +882,64 @@
       \endverb
       \keyw{Crack,Liquid water transport,Micro porous layer,PEMFC,Soft X-ray radiography,Surface morphology}
     \endentry
-    \entry{Shmidt2008}{article}{}
+    \entry{Sasaki2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=eab8234de7ef8d430eef14f7410daae7}{%
+           family={Sasaki},
+           familyi={S\bibinitperiod},
+           given={Kotaro},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d7fb144050d3aa09ab6e12bf9747315a}{%
+           family={Marinkovic},
+           familyi={M\bibinitperiod},
+           given={Nebojsa},
+           giveni={N\bibinitperiod}}}%
+        {{hash=230b99f5adcb55599d14659ecc87a70d}{%
+           family={Isaacs},
+           familyi={I\bibinitperiod},
+           given={Hugh\bibnamedelima S.},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8b0bf22d1bdce759e5388317d11bbd0c}{%
+           family={Adzic},
+           familyi={A\bibinitperiod},
+           given={Radoslav\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{d1f3e38e0ea77be7489a1179912b3590}
+      \strng{fullhash}{265392e6b67b763e40d434a97c8a7438}
+      \strng{bibnamehash}{d1f3e38e0ea77be7489a1179912b3590}
+      \strng{authorbibnamehash}{d1f3e38e0ea77be7489a1179912b3590}
+      \strng{authornamehash}{d1f3e38e0ea77be7489a1179912b3590}
+      \strng{authorfullhash}{265392e6b67b763e40d434a97c8a7438}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A detailed understanding of oxidation/dissolution mechanisms of Pt is critical in designing durable catalysts for the oxygen reduction reaction (ORR), but exact mechanisms remain unclear. The present work explores the oxidation/dissolution of Pt and Pt monolayer (ML) electrocatalysts over a wide range of applied potentials using cells that facilitate in situ measurements by combining X-ray absorption spectroscopy (XAS) and X-ray diffraction (XRD) measurements. The X-ray absorption near edge structure (XANES) measurement demonstrated that Pt nanoparticle surfaces were oxidized from metallic Pt to α-PtO2-type oxide during the potential sweep from 0.41 to 1.5 V, and the transition state of O or OH adsorption on Pt and the onset of the place exchange process were revealed by the delta mu (Δμ) method. Only the top layers of Pt nanoparticles were oxidized, while the inner Pt atoms remained intact. At a higher potential over 1.9 V, α-PtO2-type surface oxides dissolve due to local acidification caused by the oxygen evolution reaction and carbon corrosion. Pt oxidation of PtML on the Pd nanoparticle electrocatalyst is considerably hampered compared with the Pt/C catalyst, presumably because preferential Pd oxidation proceeds at the defects in Pt MLs up to 0.91 V and through O penetrated through the Pt MLs by the place exchange process above 1.11 V.}
+      \field{issn}{21555435}
+      \field{issue}{1}
+      \field{journaltitle}{ACS Catalysis}
+      \field{month}{1}
+      \field{title}{Synchrotron-Based in Situ Characterization of Carbon-Supported Platinum and Platinum Monolayer Electrocatalysts}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{pages}{69\bibrangedash 76}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/ACSCATAL.5B01862/SUPPL_FILE/CS5B01862_SI_001.PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/abs/10.1021/acscatal.5b01862
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/abs/10.1021/acscatal.5b01862
+      \endverb
+      \keyw{carbon-supported platinum nanoparticles,in situ X-ray absorption spectroscopy,in situ X-ray diffraction,place-exchange process,platinum monolayer catalyst,platinum oxides}
+    \endentry
+    \entry{Schmidt2008}{article}{}
       \name{author}{2}{}{%
         {{hash=2bd718506a7b6babe5fd8f1729dd848b}{%
            family={Schmidt-Rohr},
@@ -811,7 +1037,7 @@
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{In recent years, developments in tomography tools have provided unprecedented insight into the microstructure of electrodes for solid oxide fuel cells, enabling researchers to establish direct links between electrode microstructure and electrochemical performance. Here we present results of high resolution, synchrotron X-ray nano computed tomography experiments, which have enabled microstructural characterisation of a mixed ionic electronic conducting lanthanum strontium cobalt iron oxide (LSCF) cathode with sub-50~nm resolution at operating temperature. Using the uniquely non-destructive nano-CT platform, it is possible to characterise microstructural evolution processes associated with heating and operation in-situ. © 2011 The Electrochemical Society.}
+      \field{abstract}{In recent years, developments in tomography tools have provided unprecedented insight into the microstructure of electrodes for solid oxide fuel cells, enabling researchers to establish direct links between electrode microstructure and electrochemical performance. Here we present results of high resolution, synchrotron X-ray nano computed tomography experiments, which have enabled microstructural characterisation of a mixed ionic electronic conducting lanthanum strontium cobalt iron oxide (LSCF) cathode with sub-50nm resolution at operating temperature. Using the uniquely non-destructive nano-CT platform, it is possible to characterise microstructural evolution processes associated with heating and operation in-situ. © 2011 The Electrochemical Society.}
       \field{issn}{10990062}
       \field{issue}{10}
       \field{journaltitle}{Electrochemical and Solid-State Letters}
@@ -868,11 +1094,12 @@
       \strng{authorbibnamehash}{9d8ac71697bc4b59e7d015a7c42e9e12}
       \strng{authornamehash}{9d8ac71697bc4b59e7d015a7c42e9e12}
       \strng{authorfullhash}{d11528232413253c92ae7245d274589f}
+      \field{extraname}{1}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Solid Oxide Fuel Cell (SOFC) is a high-performance electrochemical device for energy conversion. A single cell is composed of five layers made of different ceramic materials: anode support, anode functional layer, electrolyte, cathode functional layer and cathode. The mechanical integrity of the cell is a major issue during its lifetime, especially for the electrolyte layer. Damage of the cells is mainly due to the high operating temperature, the "redox" behaviour of the anode and the brittleness of the involved materials. Since residual stresses are known to play a significant role in the damage evolution, it is important to determine them. For this purpose, residual stresses in an anode-supported planar SOFC were measured by X-ray diffraction. Firstly, macroscopic stresses in each phase of each layer were studied using the sin2ψ method on a laboratory X-ray goniometer at room temperature. This technique enables the calculation of residual stress of the material from the measurement of the crystal lattice deformation. The electrolyte has been found under bi-axial compressive stress of -920~MPa. Secondly, X-ray measurements controlling depth penetration were made in the electrolyte using grazing incidence method. The results show that the stress is not homogenous in the layer. The first five micrometers of the electrolyte have been found less constrained (-750~MPa) than the complete layer, suggesting a gradient of deformation in the electrolyte from the interface with the Anode Functional Layer to the free surface. Finally, local stress measurements were made on the electrolyte layer by X-ray synchrotron radiation that allows high accuracy measurement on the (sub-) micrometer scale. Polychromatic and monochromatic beams are used to determine the complete strain tensor from grain to grain in the electrolyte. First results confirm the macroscopic stress trend of the electrolyte. These X-ray techniques at different scales will contribute to a better understanding of the residual stress in the electrolyte layer and thus to the involved damage mechanisms. © 2009 Elsevier B.V. All rights reserved.}
+      \field{abstract}{Solid Oxide Fuel Cell (SOFC) is a high-performance electrochemical device for energy conversion. A single cell is composed of five layers made of different ceramic materials: anode support, anode functional layer, electrolyte, cathode functional layer and cathode. The mechanical integrity of the cell is a major issue during its lifetime, especially for the electrolyte layer. Damage of the cells is mainly due to the high operating temperature, the "redox" behaviour of the anode and the brittleness of the involved materials. Since residual stresses are known to play a significant role in the damage evolution, it is important to determine them. For this purpose, residual stresses in an anode-supported planar SOFC were measured by X-ray diffraction. Firstly, macroscopic stresses in each phase of each layer were studied using the sin2ψ method on a laboratory X-ray goniometer at room temperature. This technique enables the calculation of residual stress of the material from the measurement of the crystal lattice deformation. The electrolyte has been found under bi-axial compressive stress of -920 MPa. Secondly, X-ray measurements controlling depth penetration were made in the electrolyte using grazing incidence method. The results show that the stress is not homogenous in the layer. The first five micrometers of the electrolyte have been found less constrained (-750 MPa) than the complete layer, suggesting a gradient of deformation in the electrolyte from the interface with the Anode Functional Layer to the free surface. Finally, local stress measurements were made on the electrolyte layer by X-ray synchrotron radiation that allows high accuracy measurement on the (sub-) micrometer scale. Polychromatic and monochromatic beams are used to determine the complete strain tensor from grain to grain in the electrolyte. First results confirm the macroscopic stress trend of the electrolyte. These X-ray techniques at different scales will contribute to a better understanding of the residual stress in the electrolyte layer and thus to the involved damage mechanisms. © 2009 Elsevier B.V. All rights reserved.}
       \field{issn}{0168583X}
       \field{issue}{3-4}
       \field{journaltitle}{Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms}
@@ -892,6 +1119,57 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0168583X09009847
       \endverb
       \keyw{Electrolyte,SOFC,Stress measurement,Synchrotron radiation,X-ray diffraction}
+    \endentry
+    \entry{Villanova2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=911e9e12e7928057eb23cf9a040c2096}{%
+           family={Villanova},
+           familyi={V\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b25d3337edf3decbeeb343617e08e5bc}{%
+           family={Schlabach},
+           familyi={S\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=74b90244785abdd3ad6a15e9a9002911}{%
+           family={Brisse},
+           familyi={B\bibinitperiod},
+           given={Annabelle},
+           giveni={A\bibinitperiod}}}%
+        {{hash=47622ff2247d80b96495c139acc79746}{%
+           family={Léon},
+           familyi={L\bibinitperiod},
+           given={Aline},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9d8ac71697bc4b59e7d015a7c42e9e12}
+      \strng{fullhash}{ed35b00e9ea4dda9a8681f166a2b7dd2}
+      \strng{bibnamehash}{9d8ac71697bc4b59e7d015a7c42e9e12}
+      \strng{authorbibnamehash}{9d8ac71697bc4b59e7d015a7c42e9e12}
+      \strng{authornamehash}{9d8ac71697bc4b59e7d015a7c42e9e12}
+      \strng{authorfullhash}{ed35b00e9ea4dda9a8681f166a2b7dd2}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this work, we investigate using nanoscale X-ray fluorescence spectroscopy the degradation processes of a cathode and an electrolyte supported cell, produced by two different suppliers, that have been long-term operated in electrolysis mode. High-resolution compositional analysis in combination with high lateral resolution are presented in the format of a 2D map with 50 nm resolution for Ni, Y, Ce, Gd, La, Sr, Co, Fe. We report on the different elements that are diffusing already during the sintering process as well as their evolution after long-term operation. In both type of cell, Co is the element that is highly segregating from the LSCF electrode during the electrochemical reaction. The CGO barrier does not prevent the diffusion of Sr in the electrolyte of the CSC cell while it does in the ESC cell. In addition, the contact layer between the hydrogen electrode and the electrolyte in the ESC cell seems to prevent the Ni depletion. A high concentration of gadolinium from the CGO layer is visible at the CGO/electrolyte interface on the oxygen electrode side as well as on the hydrogen electrode side in the ESC cell. The gadolinium concentration significantly increases during the cell operation to form a layer of a few micrometers.}
+      \field{issn}{0378-7753}
+      \field{journaltitle}{Journal of Power Sources}
+      \field{month}{5}
+      \field{title}{X-ray fluorescence nano-imaging of long-term operated solid oxide electrolysis cells}
+      \field{volume}{421}
+      \field{year}{2019}
+      \field{pages}{100\bibrangedash 108}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/J.JPOWSOUR.2019.02.084
+      \endverb
+      \keyw{2D nano-imaging,Cathode supported cell,Electrolyte supported cell,Long-term degradation,Solid oxide electrolysis cell}
     \endentry
     \entry{Yonoff2019}{article}{}
       \name{author}{5}{}{%
