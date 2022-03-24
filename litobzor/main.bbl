@@ -791,7 +791,7 @@
       \verb https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c00718
       \endverb
     \endentry
-    \entry{Martens2019}{article}{}
+    \entry{Martens2019_MEA}{article}{}
       \name{author}{8}{}{%
         {{hash=2e4eac773798764c6902174ea5608d89}{%
            family={Martens},
@@ -868,6 +868,108 @@
       \verb https://pubs.acs.org/doi/abs/10.1021/acsaem.9b00982
       \endverb
       \keyw{Pt oxide,fuel cell,high energy X-rays,pair distribution function,place exchange,spectroelectrochemistry,synchrotron diffraction}
+    \endentry
+    \entry{Martens2019_cell}{article}{}
+      \name{author}{13}{}{%
+        {{hash=2e4eac773798764c6902174ea5608d89}{%
+           family={Martens},
+           familyi={M\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+        {{hash=3059ecf8e7d71d7aa061e2432d27ba05}{%
+           family={Vamvakeros},
+           familyi={V\bibinitperiod},
+           given={Antonis},
+           giveni={A\bibinitperiod}}}%
+        {{hash=44e4db2cafa487555e2944105b5f8ef9}{%
+           family={Chattot},
+           familyi={C\bibinitperiod},
+           given={Raphael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=dc1861a9dbabbd335210a78ff5f85d86}{%
+           family={Blanco},
+           familyi={B\bibinitperiod},
+           given={Maria\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=e6ec3615e4891d90cfa5fdf90bb1a843}{%
+           family={Rasola},
+           familyi={R\bibinitperiod},
+           given={Miika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e86721b5ffe4258badff8c9a5c5d445d}{%
+           family={Pusa},
+           familyi={P\bibinitperiod},
+           given={Janne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=84968f15bd49944be449e3356e928f4d}{%
+           family={Jacques},
+           familyi={J\bibinitperiod},
+           given={Simon\bibnamedelima D.M.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d8ca8f01e7bb28a445efd72ce2a03be0}{%
+           family={Bizzotto},
+           familyi={B\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d945c048950a466d08049ea72ef6f3ee}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e2d07662dc954af13b389963d00d2bad}{%
+           family={Ruffmann},
+           familyi={R\bibinitperiod},
+           given={Bastian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ac394239d5a2f769b9a0c4a9799c1838}{%
+           family={Heidemann},
+           familyi={H\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2b33227c08e6a0b110c5119fe0f79495}{%
+           family={Honkimäki},
+           familyi={H\bibinitperiod},
+           given={Veijo},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3848738924ea9119a43046a0b7356ecb}{%
+           family={Drnec},
+           familyi={D\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3603e7b102a8b4394ccfa4083a3df499}
+      \strng{fullhash}{a1f3927f3a99ed0a8de131b8cb468833}
+      \strng{bibnamehash}{3603e7b102a8b4394ccfa4083a3df499}
+      \strng{authorbibnamehash}{3603e7b102a8b4394ccfa4083a3df499}
+      \strng{authornamehash}{3603e7b102a8b4394ccfa4083a3df499}
+      \strng{authorfullhash}{a1f3927f3a99ed0a8de131b8cb468833}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have constructed a 5 cm2 proton exchange membrane hydrogen fuel cell optimized for transparency of high energy X-rays. This cell allows for in situ elastic scattering measurements (WAXS, SAXS) during electrochemical operation with minimal trade-offs in cell performance vs benchtop designs, and is capable of reaching automotive current densities. A key feature is that the beam enters the cell at grazing incidence to the electrodes, massively increasing the effective pathlength and therefore the signal-to-background ratio. The 360∘ transparency in the plane of the sample permits imaging coupled with advanced techniques, such as X-ray diffraction computed tomography.}
+      \field{issn}{03787753}
+      \field{journaltitle}{Journal of Power Sources}
+      \field{month}{10}
+      \field{title}{X-ray transparent proton-exchange membrane fuel cell design for in situ wide and small angle scattering tomography}
+      \field{volume}{437}
+      \field{year}{2019}
+      \field{pages}{226906}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jpowsour.2019.226906
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775319308997
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775319308997
+      \endverb
+      \keyw{PEMFC,Tomography,X-ray scattering,XRD-CT}
     \endentry
     \entry{Nguyen2021}{article}{}
       \name{author}{6}{}{%
