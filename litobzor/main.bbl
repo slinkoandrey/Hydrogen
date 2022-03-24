@@ -19,6 +19,64 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Collier2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=0efe42a62d6337b8c42e79510e3aa5b8}{%
+           family={Collier},
+           familyi={C\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod}}}%
+        {{hash=89cf2f4b34604ebf324e9ace01926e21}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haijiang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a1b7edd61ac35763b110b8e33005f25f}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiao\bibnamedelima Zi},
+           giveni={X\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=fef0f6a4e4b1f283a5ef7cee33f04a2e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiujun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d945c048950a466d08049ea72ef6f3ee}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima P},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{77d87c6ec401133ae79aafba0c2dc6dc}
+      \strng{fullhash}{61d1223f984292a84c3e677ef30f16a5}
+      \strng{bibnamehash}{77d87c6ec401133ae79aafba0c2dc6dc}
+      \strng{authorbibnamehash}{77d87c6ec401133ae79aafba0c2dc6dc}
+      \strng{authornamehash}{77d87c6ec401133ae79aafba0c2dc6dc}
+      \strng{authorfullhash}{61d1223f984292a84c3e677ef30f16a5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One of the predominant failure modes of polymer electrolyte membrane (PEM) fuel cells is the degradation of the PEM, especially when the fuel cell is used for transportation applications. Numerous studies have been carried out regarding this issue but many aspects of the degradation are not yet understood. This paper reviews the available literature regarding membrane degradation, and attempts to classify the degradation modes into three categories: mechanical, thermal and chemical/electrochemical. The factors that contribute to each mode are discussed, along with detailed mechanisms for some degradations. Some possible mitigation strategies are also explored.}
+      \field{issn}{0360-3199}
+      \field{issue}{13}
+      \field{journaltitle}{International Journal of Hydrogen Energy}
+      \field{title}{Degradation of polymer electrolyte membranes}
+      \field{volume}{31}
+      \field{year}{2006}
+      \field{pages}{1838\bibrangedash 1854}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijhydene.2006.05.006
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360319906001674
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360319906001674
+      \endverb
+      \keyw{Membrane degradation,Membrane degradation mechanism,PEM fuel cell,Polymer electrolyte membrane}
+    \endentry
     \entry{Deevanhxay2011}{article}{}
       \name{author}{4}{}{%
         {{hash=5504a72f0ae4007d0bd3d0951a7bed64}{%
@@ -382,6 +440,164 @@
       \verb https://iopscience.iop.org/article/10.1149/1.2895067
       \endverb
     \endentry
+    \entry{Jahnke2016}{article}{}
+      \name{author}{24}{}{%
+        {{hash=29f23ab5636edb727ed2084f76708114}{%
+           family={Jahnke},
+           familyi={J\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a4724d659f83a82d1853dee2a835ae47}{%
+           family={Futter},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=563451a6416cb1b8e858d82d8f2050de}{%
+           family={Latz},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=686ce2628d9fe6c46412457d6adbf6ca}{%
+           family={Malkow},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9b8fe1823eec42f3353097d04c8e33a0}{%
+           family={Papakonstantinou},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4f87fc67ecaa08eee202dd17d70741c7}{%
+           family={Tsotridis},
+           familyi={T\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5b304b488cc4b205883d98597b83dfdd}{%
+           family={Schott},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b11dc7fcb27c731cfa9b9bde1c7e8f6f}{%
+           family={Gérard},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=30c0df90fa0689701bb10fc1cb69ea53}{%
+           family={Quinaud},
+           familyi={Q\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=239ba7f9df5f8af601f2d516ce6ef8df}{%
+           family={Quiroga},
+           familyi={Q\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b73be8744ad8e39f41046251972685e3}{%
+           family={Franco},
+           familyi={F\bibinitperiod},
+           given={A.A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=887c8e432f2e174a8030dae3c323bae8}{%
+           family={Malek},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7b4f654b13be62a7327c5627355f9eea}{%
+           family={Calle-Vallejo},
+           familyi={C\bibinithyphendelim V\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=45d1f9b061a1e5c70d965adda29c336e}{%
+           family={Morais},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi Ferreira},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=a4efe25ffc2785919d32b46e453a5486}{%
+           family={Kerber},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=09aa1c2b434c38dd4f148b9c63f447ca}{%
+           family={Sautet},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a7ae89cc60a62981354cd450cead396e}{%
+           family={Loffreda},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7483609d8c4c5466f94c003f325883f3}{%
+           family={Strahl},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=380b2a0ca6491c010a89600020000b4b}{%
+           family={Serra},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=61abc56f7e7447352668bf00b3d04625}{%
+           family={Polverino},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=78dbd0d2905c76c203967539f3380e90}{%
+           family={Pianese},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=318d36dd1129e5991a5a76784ae4fca3}{%
+           family={Mayur},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a00024c4f79120165e724dc6484f86c}{%
+           family={Bessler},
+           familyi={B\bibinitperiod},
+           given={W.G.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=cdd9109fe4dcebb18c05245438ed51d5}{%
+           family={Kompis},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e7f808840d8594d61268d6e6889c343a}
+      \strng{fullhash}{a28dd2d9cd68ddcfd60cf39b8eb5985f}
+      \strng{bibnamehash}{e7f808840d8594d61268d6e6889c343a}
+      \strng{authorbibnamehash}{e7f808840d8594d61268d6e6889c343a}
+      \strng{authornamehash}{e7f808840d8594d61268d6e6889c343a}
+      \strng{authorfullhash}{a28dd2d9cd68ddcfd60cf39b8eb5985f}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Proton Exchange Membrane Fuel Cells (PEMFC) are energy efficient and environmentally friendly alternatives to conventional energy conversion systems in many yet emerging applications. In order to enable prediction of their performance and durability, it is crucial to gain a deeper understanding of the relevant operation phenomena, e.g., electrochemistry, transport phenomena, thermodynamics as well as the mechanisms leading to the degradation of cell components. Achieving the goal of providing predictive tools to model PEMFC performance, durability and degradation is a challenging task requiring the development of detailed and realistic models reaching from the atomic/molecular scale over the meso scale of structures and materials up to components, stack and system level. In addition an appropriate way of coupling the different scales is required. This review provides a comprehensive overview of the state of the art in modeling of PEMFC, covering all relevant scales from atomistic up to system level as well as the coupling between these scales. Furthermore, it focuses on the modeling of PEMFC degradation mechanisms and on the coupling between performance and degradation models.}
+      \field{issn}{03787753}
+      \field{journaltitle}{Journal of Power Sources}
+      \field{month}{2}
+      \field{title}{Performance and degradation of Proton Exchange Membrane Fuel Cells: State of the art in modeling from atomistic to system scale}
+      \field{volume}{304}
+      \field{year}{2016}
+      \field{pages}{207\bibrangedash 233}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1016/j.jpowsour.2015.11.041
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775315305395
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775315305395
+      \endverb
+      \keyw{Degradation,Performance,Proton Exchange Membrane Fuel Cells Modeling}
+    \endentry
     \entry{Lee2013}{article}{}
       \name{author}{3}{}{%
         {{hash=a38fe2282e0ae708270c02346a36d08f}{%
@@ -717,7 +933,7 @@
       \endverb
       \keyw{PEM,degradation,durability,fuel cells,hydrogen,test protocol}
     \endentry
-    \entry{Okonkwo2021}{article}{}
+    \entry{Okonkwo2021_I}{article}{}
       \name{author}{4}{}{%
         {{hash=aa11960f4f987a39240c0fc4dfe5052e}{%
            family={Okonkwo},
@@ -749,6 +965,7 @@
       \strng{authorbibnamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
       \strng{authornamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
       \strng{authorfullhash}{3aec74017e208d7a1388377632e05e7b}
+      \field{extraname}{1}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
@@ -773,6 +990,79 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0360319921021832
       \endverb
       \keyw{Degradation,Electrodes,Hydrogen,Mechanism,Nafion membrane,Oxygen}
+    \endentry
+    \entry{Okonkwo2021_Pt}{article}{}
+      \name{author}{7}{}{%
+        {{hash=aa11960f4f987a39240c0fc4dfe5052e}{%
+           family={Okonkwo},
+           familyi={O\bibinitperiod},
+           given={Paul\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b9d1afbbdcdc7fd41a6b03d694d43556}{%
+           family={Ige},
+           familyi={I\bibinitperiod},
+           given={Oladeji\bibnamedelima O.},
+           giveni={O\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=a4133676cd51d1506bd29e0880bd5c7b}{%
+           family={Barhoumi},
+           familyi={B\bibinitperiod},
+           given={El\bibnamedelima Manaa},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7d73c4af9837c6584d39a110fc804b01}{%
+           family={Uzoma},
+           familyi={U\bibinitperiod},
+           given={Paul\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f69be0cccfe552cdbf6b5180d84de832}{%
+           family={Emori},
+           familyi={E\bibinitperiod},
+           given={Wilfred},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ce01e3c6b362646de18500bdfa0e9d70}{%
+           family={Benamor},
+           familyi={B\bibinitperiod},
+           given={Abdelbaki},
+           giveni={A\bibinitperiod}}}%
+        {{hash=de8065d767d6c4174df30c18cbbf2b6c}{%
+           family={Abdullah},
+           familyi={A\bibinitperiod},
+           given={Aboubakr\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
+      \strng{fullhash}{8fa77f5f81ca4e4926dcb57cecd04dfa}
+      \strng{bibnamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
+      \strng{authorbibnamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
+      \strng{authornamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
+      \strng{authorfullhash}{8fa77f5f81ca4e4926dcb57cecd04dfa}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Proton Exchange Membrane Fuel Cells (PEMFCs) have the perspective to intensely decrease global emission through environmentally-friendly potential. This review paper summarizes the degradation of platinum catalyst layer that has become a significant issue in the improvement of PEMFCs. The review intends to categorise and provide a clear understanding between disintegration and agglomerate that occurs during platinum degradation. In each process, different degradation mechanisms and their migration processes are presented. The improvement in platinum degradation as a function of increasing the performance of PEMFC is established. Prospects for addressing platinum degradation through the exploration of further experimental and numerical research are recommended. Lastly, this paper through recommendation attempts to prevent platinum degradation and reduces high costs associated with the replacement of catalysts in the PEMFCs.}
+      \field{issn}{03603199}
+      \field{issue}{29}
+      \field{journaltitle}{International Journal of Hydrogen Energy}
+      \field{month}{4}
+      \field{title}{Platinum degradation mechanisms in proton exchange membrane fuel cell (PEMFC) system: A review}
+      \field{volume}{46}
+      \field{year}{2021}
+      \field{pages}{15850\bibrangedash 15865}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.ijhydene.2021.02.078
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360319921005814
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360319921005814
+      \endverb
+      \keyw{Catalyst layer,Degradation,Fuel cell,Membrane,Platinum,Proton}
     \endentry
     \entry{Prokop2020}{article}{}
       \name{author}{3}{}{%
