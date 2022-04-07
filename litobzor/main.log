@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.18)  1 APR 2022 15:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.18)  7 APR 2022 18:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1450,12 +1450,509 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen335
 \titlewidthlast=\dimen336
 \titlewidthfirst=\dimen337
-))
+)
 (c:/texlive/2021/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count482
 \c@@ppsavesec=\count483
 \c@@ppsaveapp=\count484
+)
+(c:/texlive/2021/texmf-dist/tex/generic/chemfig/chemfig.sty
+(c:/texlive/2021/texmf-dist/tex/generic/chemfig/chemfig.tex
+(c:/texlive/2021/texmf-dist/tex/generic/simplekv/simplekv.tex
+Package: simplekv 2020/04/27 v0.2 Simple keyval package (CT)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.cod
+e.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen338
+\pgfarrowlength=\dimen339
+\pgfarrowwidth=\dimen340
+\pgfarrowlinewidth=\dimen341
+)
+\CF_cntatomgroup=\count485
+\CF_cntgroup=\count486
+\CF_cntatom=\count487
+\CF_cntcycle=\count488
+\CF_cntcyclebonds=\count489
+\CF_cntcompound=\count490
+\CF_dim=\dimen342
+\CF_arrowsize=\dimen343
+\CF_zero=\dimen344
+\CF_box=\box120
+\CF_boxstuff=\box121
+\CF_testbox=\box122
+\CF_chargebox=\box123
+\CF_substtoks=\toks59
+)
+Package: chemfig 2021/08/01 v1.6b Draw molecule with an easy syntax (CT)
+) (c:/texlive/2021/texmf-dist/tex/latex/mathastext/mathastext.sty
+Package: mathastext 2019/11/16 v1.3w Use the text font in math mode (JFB)
+\mst@exists@muskip=\muskip22
+\mst@forall@muskip=\muskip23
+\mst@prime@muskip=\muskip24
+\mst@do@nonletters=\toks60
+\mst@do@easynonletters=\toks61
+\mst@do@az=\toks62
+\mst@do@AZ=\toks63
+\symmtoperatorfont=\mathgroup11
+\symmtletterfont=\mathgroup12
+Now handling font encoding LGR ...
+... processing UTF-8 mapping file for font encoding LGR
+
+(c:/texlive/2021/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+)
+\symLGRletters=\mathgroup13
+\symmtlgrfontlower=\mathgroup14
+\symmtlgrfontupper=\mathgroup15
+
+** ! and ?
+** punctuation: , . : ; and \colon
+LaTeX Info: Redefining \rightarrowfill on input line 790.
+LaTeX Info: Redefining \leftarrowfill on input line 795.
+** + and =
+** adding = ; and + to \nfss@catcodes
+** parentheses ( ) [ ] and slash /
+** alldelims: < > \backslash \setminus | \vert \mid \{ and \}
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 932.
+LaTeX Font Info:    Redeclaring math symbol \setminus on input line 944.
+LaTeX Info: Redefining \models on input line 953.
+** \# \mathdollar \% \& 
+** \imath and \jmath 
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `nor
+mal'
+(Font)                  T2A/cmr/b/n --> T2A/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `bol
+d'
+(Font)                  T2A/cmr/b/n --> T2A/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `normal'
+(Font)                  T2A/cmr/m/n --> T2A/cmr/m/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `bold'
+(Font)                  T2A/cmr/m/n --> T2A/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `normal
+'
+(Font)                  T2A/cmr/m/n --> T2A/cmr/m/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `bold'
+(Font)                  T2A/cmr/m/n --> T2A/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `normal'
+(Font)                  T2A/cmr/b/n --> T2A/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `bold'
+(Font)                  T2A/cmr/b/n --> T2A/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `normal'
+(Font)                  T2A/cmr/m/it --> T2A/cmr/m/it on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `bold'
+(Font)                  T2A/cmr/m/it --> T2A/cmr/b/it on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `normal'
+(Font)                  T2A/cmss/m/n --> T2A/cmss/m/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `bold'
+(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `normal'
+(Font)                  T2A/cmtt/m/n --> T2A/cmtt/m/n on input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `bold'
+(Font)                  T2A/cmtt/m/n --> T2A/cmtt/b/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtlgrfontlower' in version `normal
+'
+(Font)                  LGR/cmr/m/n --> LGR/cmr/m/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtlgrfontlower' in version `bold'
+(Font)                  LGR/cmr/m/n --> LGR/cmr/b/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtlgrfontupper' in version `normal
+'
+(Font)                  LGR/cmr/m/n --> LGR/cmr/m/n on input line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtlgrfontupper' in version `bold'
+(Font)                  LGR/cmr/m/n --> LGR/cmr/b/n on input line 2140.
+** Latin letters in the normal (resp. bold) math versions are now
+** set up to use the fonts T2A/cmr/m(b)/n
+** Greek letters (n/n) will use LGR/cmr
+** Other characters (digits, ...) and \log-like names will be
+** typeset with the n shape.
+** \hbar
+** minus as endash
+** \HUGE has been (re)-defined.
+** mathastext has declared larger sizes for subscripts.
+** To keep LaTeX defaults, use option `defaultmathsizes'.
+) (c:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/02/28 v3.6a Customizing captions (AR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/02/28 v2.3a caption3 kernel (AR)
+\caption@tempdima=\dimen345
+\captionmargin=\dimen346
+\caption@leftmargin=\dimen347
+\caption@rightmargin=\dimen348
+\caption@width=\dimen349
+\caption@indent=\dimen350
+\caption@parindent=\dimen351
+\caption@hangindent=\dimen352
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count491
+\c@continuedfloat=\count492
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(c:/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+)
+(c:/texlive/2021/texmf-dist/tex/latex/newfloat/newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+Package newfloat Info: `wrapfig' package detected.
+)
+Package newfloat Info: New float `scheme' with options ` fileext = los , name =
+ РЎС…РµРјР° , placement = htbp ' on input line 131.
+\c@scheme=\count493
+\newfloat@ftype=\count494
+Package newfloat Info: float type `scheme'=8 on input line 131.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1484,33 +1981,33 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 6.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 6
+.
+
+(c:/texlive/2021/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 6.
 LaTeX Info: Redefining \th on input line 6.
 
 (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count485
-\scratchdimen=\dimen338
-\scratchbox=\box120
-\nofMPsegments=\count486
-\nofMParguments=\count487
-\everyMPshowfont=\toks59
-\MPscratchCnt=\count488
-\MPscratchDim=\dimen339
-\MPnumerator=\count489
-\makeMPintoPDFobject=\count490
-\everyMPtoPDFconversion=\toks60
+\scratchcounter=\count495
+\scratchdimen=\dimen353
+\scratchbox=\box124
+\nofMPsegments=\count496
+\nofMParguments=\count497
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count498
+\MPscratchDim=\dimen354
+\MPnumerator=\count499
+\makeMPintoPDFobject=\count500
+\everyMPtoPDFconversion=\toks65
 ) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(c:/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
@@ -1563,7 +2060,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (c:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count491
+\c@section@level=\count501
 )
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
@@ -1602,6 +2099,10 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into
 your preamble.
  on input line 6.
 
+Package mathastext Info: current meaning of amsmath \resetMathstrut@ saved on i
+nput line 6.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 <images/research_trends.jpg, id=42, 960.58875pt x 698.61pt>
 File: images/research_trends.jpg Graphic file (type jpg)
 <use images/research_trends.jpg>
@@ -1610,171 +2111,184 @@ Package pdftex.def Info: images/research_trends.jpg  used on input line 17.
 [1
 
 {c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/resear
-ch_trends.jpg>] [2]
-Overfull \hbox (0.18227pt too wide) in paragraph at lines 62--66
-\T2A/cmr/m/n/14.4 мембранно-электродных бло-ков в рент-ге-нов-ском диа-па-зоне 
-по-свя-ще-ны изу-
- []
-
-[3]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-75.
- (c:/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+ch_trends.jpg>]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 75.
+(Font)              using `T2A/cmr/m/n' instead on input line 41.
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 7
-5.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 4
+1.
 (c:/texlive/2021/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 75.
+(Font)              using `OML/cmr/m/it' instead on input line 41.
 
-LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 75.
+LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 41.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 75.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 75.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7
-5.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 41.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
+1.
 (c:/texlive/2021/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 75.
+(Font)              using `OMS/cmr/m/n' instead on input line 41.
 
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
 
 (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
 
 
 (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 7
-5.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 75.
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 4
+1.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 41.
 
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 75.
+(Font)              using `PD1/pdf/m/n' instead on input line 41.
 
-LaTeX Font Info:    Trying to load font information for PU+cmr on input line 75
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 41
 .
-LaTeX Font Info:    No file PUcmr.fd. on input line 75.
+LaTeX Font Info:    No file PUcmr.fd. on input line 41.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 75.
+(Font)              using `PU/pdf/m/n' instead on input line 41.
 
 
-Overfull \hbox (14.78467pt too wide) in paragraph at lines 75--75
-[]\T2A/cmr/m/n/14.4 Nancy Garland, Thomas Benjamin и John Kopasz. ѕ  DOE Fuel C
-ell Program:
- []
+LaTeX Font Warning: Font shape `LGR/cmr/m/up' undefined
+(Font)              using `LGR/cmr/m/n' instead on input line 41.
 
-
-Overfull \hbox (0.12967pt too wide) in paragraph at lines 75--75
-\T2A/cmr/m/n/14.4 Durability Technical Targets and Testing Protocolsї. В: \T2A/
-cmr/m/it/14.4 ECS Transactions
- []
-
-
-Overfull \hbox (1.61264pt too wide) in paragraph at lines 75--75
-[]\T2A/cmr/m/n/14.4 Rony Escobar Yonoff и др. ѕ  Research trends in proton exch
-ange membrane
- []
-
-
-Overfull \hbox (22.90593pt too wide) in paragraph at lines 75--75
-[]\T2A/cmr/m/n/14.4 T. Jahnke и др. ѕ  Performance and degradation of Proton Ex
-change Membrane
+<<lgr.cmap>> [2] [3]
+Overfull \hbox (0.18227pt too wide) in paragraph at lines 103--107
+\T2A/cmr/m/n/14.4 мембранно-электродных бло-ков в рент-ге-нов-ском диа-па-зоне 
+по-свя-ще-ны изу-
  []
 
 [4]
-Overfull \hbox (9.53911pt too wide) in paragraph at lines 75--75
-[]\T2A/cmr/m/n/14.4 Paul C. Okonkwo и др. ѕ  Nafion degradation mechanisms in p
-roton exchange
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+116.
+ (c:/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <14.4> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 116.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 116.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
+
+Overfull \hbox (14.78467pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/m/up/14.4 Nancy Garland, Thomas Benjamin и John Kopasz. ѕ  DOE Fuel 
+Cell Program:
  []
 
 
-Overfull \hbox (4.32054pt too wide) in paragraph at lines 75--75
-\T2A/cmr/m/n/14.4 exchange membrane fuel cell (PEMFC) system: A reviewї. В: \T2
-A/cmr/m/it/14.4 International
+Overfull \hbox (0.12967pt too wide) in paragraph at lines 116--116
+\T2A/cmr/m/up/14.4 Durability Technical Targets and Testing Protocolsї. В: \T2A
+/cmr/m/it/14.4 ECS Transactions
  []
 
 
-Overfull \hbox (4.50208pt too wide) in paragraph at lines 75--75
-\T2A/cmr/m/n/14.4 Membrane Fuel Cell in Long-Term Operation: Main Influencing P
-arameters
+Overfull \hbox (1.61264pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/m/up/14.4 Rony Escobar Yonoff и др. ѕ  Research trends in proton exc
+hange membrane
  []
 
 
-Overfull \hbox (9.30652pt too wide) in paragraph at lines 75--75
-\T2A/cmr/m/n/14.4 tolerance of PdPt/C and PdPtRu/C anodes for PEMFCї. В: \T2A/c
-mr/m/it/14.4 Electrochimica
+Overfull \hbox (22.90593pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/m/up/14.4 T. Jahnke и др. ѕ  Performance and degradation of Proton E
+xchange Membrane
  []
 
 
-Overfull \hbox (35.52774pt too wide) in paragraph at lines 75--75
-[]\T2A/cmr/m/n/14.4 Martin Prokop, Monika Drakselova и Karel Bouzek. ѕ  Review 
-of the experimental
- []
-
-
-Overfull \hbox (18.76845pt too wide) in paragraph at lines 75--75
-[][]$\T2A/cmtt/m/n/14.4 https : / / linkinghub . elsevier . com / retrieve / pi
-i / S2451910320300235$[][]\T2A/cmr/m/n/14.4 . 
- []
-
-
-Overfull \hbox (11.80222pt too wide) in paragraph at lines 75--75
-[]\T2A/cmr/m/n/14.4 Kotaro Sasaki и др. ѕ  Synchrotron-Based in Situ Characteri
-zation of Carbon-
+Overfull \hbox (9.53911pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/m/up/14.4 Paul C. Okonkwo и др. ѕ  Nafion degradation mechanisms in 
+proton exchange
  []
 
 [5]
-Overfull \hbox (10.85474pt too wide) in paragraph at lines 75--75
-[]\T2A/cmr/m/n/14.4 Klaus Schmidt-Rohr и Qiang Chen. ѕ  Parallel cylindrical wa
-ter nanochannels
+Overfull \hbox (4.32054pt too wide) in paragraph at lines 116--116
+\T2A/cmr/m/up/14.4 exchange membrane fuel cell (PEMFC) system: A reviewї. В: \T
+2A/cmr/m/it/14.4 International
  []
 
 
-Overfull \hbox (2.2233pt too wide) in paragraph at lines 75--75
-[]\T2A/cmr/m/n/14.4 Takashi Sasabe и др. ѕ  Soft X-ray visualization of the liq
-uid water transport
+Overfull \hbox (4.50208pt too wide) in paragraph at lines 116--116
+\T2A/cmr/m/up/14.4 Membrane Fuel Cell in Long-Term Operation: Main Influencing 
+Parameters
+ []
+
+
+Overfull \hbox (9.30652pt too wide) in paragraph at lines 116--116
+\T2A/cmr/m/up/14.4 tolerance of PdPt/C and PdPtRu/C anodes for PEMFCї. В: \T2A/
+cmr/m/it/14.4 Electrochimica
+ []
+
+
+Overfull \hbox (35.52774pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/m/up/14.4 Martin Prokop, Monika Drakselova и Karel Bouzek. ѕ  Review
+ of the experimental
+ []
+
+
+Overfull \hbox (18.76845pt too wide) in paragraph at lines 116--116
+[][]$\T2A/cmtt/m/n/14.4 https : / / linkinghub . elsevier . com / retrieve / pi
+i / S2451910320300235$[][]\T2A/cmr/m/up/14.4 . 
+ []
+
+
+Overfull \hbox (11.80222pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/m/up/14.4 Kotaro Sasaki и др. ѕ  Synchrotron-Based in Situ Character
+ization of Carbon-
+ []
+
+
+Overfull \hbox (10.85474pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/m/up/14.4 Klaus Schmidt-Rohr и Qiang Chen. ѕ  Parallel cylindrical w
+ater nanochannels
  []
 
 [6]
-Overfull \hbox (51.55986pt too wide) in paragraph at lines 75--75
-\T2A/cmr/m/n/14.4 SOFC Electrode Microstructures in Three-Dimensions at Operati
-ng Temperatureї.
+Overfull \hbox (2.2233pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/m/up/14.4 Takashi Sasabe и др. ѕ  Soft X-ray visualization of the li
+quid water transport
  []
 
 [7]
-Overfull \hbox (14.37721pt too wide) in paragraph at lines 75--75
-[]\T2A/cmr/m/n/14.4 Julie Villanova и др. ѕ  X-ray fluorescence nano-imaging of
- long-term operated
+Overfull \hbox (51.55986pt too wide) in paragraph at lines 116--116
+\T2A/cmr/m/up/14.4 SOFC Electrode Microstructures in Three-Dimensions at Operat
+ing Temperatureї.
+ []
+
+[8]
+Overfull \hbox (14.37721pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/m/up/14.4 Julie Villanova и др. ѕ  X-ray fluorescence nano-imaging o
+f long-term operated
  []
 
 
 AED: lastpage setting LastPage
-[8] (./main.aux)
+[9] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1785,25 +2299,26 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44264 strings out of 478276
- 985009 string characters out of 5850489
- 1822061 words of memory out of 5000000
- 61695 multiletter control sequences out of 15000+600000
- 481220 words of font info for 53 fonts, out of 8000000 for 9000
+ 49167 strings out of 478276
+ 1068734 string characters out of 5850489
+ 2000814 words of memory out of 5000000
+ 66535 multiletter control sequences out of 15000+600000
+ 487515 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,6n,83p,2234b,1715s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 89i,16n,83p,2234b,2681s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
 live/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2021/
 texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2021/texmf-dist
 /fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2021/texmf-dist/fonts/typ
 e1/public/cm-super/sfcc1440.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/
-cm-super/sfrm1440.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/s
-fti1440.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1440.pf
-b>
-Output written on main.pdf (8 pages, 320017 bytes).
+cm-super/sfrm1000.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/s
+frm1200.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
+b><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:/texl
+ive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on main.pdf (9 pages, 342561 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 40 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 260 PDF objects out of 1000 (max. 8388607)
+ 230 compressed objects within 3 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

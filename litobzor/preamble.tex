@@ -117,3 +117,17 @@
 \usepackage{titlesec}
 
 \usepackage[titletoc]{appendix}
+
+\usepackage{chemfig} %рисование хим формул
+\usepackage[LGRgreek]{mathastext} %математика без курсива
+
+\usepackage{caption} %Подписи к химии
+\usepackage{newfloat}
+\DeclareFloatingEnvironment[
+fileext   = los ,
+name      = Схема ,
+%within    = article ,
+placement = htbp
+]{scheme}
+
+
