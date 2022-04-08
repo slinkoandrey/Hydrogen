@@ -348,6 +348,381 @@
       \endverb
       \keyw{Membrane degradation,Membrane degradation mechanism,PEM fuel cell,Polymer electrolyte membrane}
     \endentry
+    \entry{Ramani2020}{article}{}
+      \name{author}{7}{}{%
+        {{hash=6a1b24e1bc7200f2f2e2325809232914}{%
+           family={Ramani},
+           familyi={R\bibinitperiod},
+           given={Dilip},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6f42916502648a04c66b63ae6a958676}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Yadvinder},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fb789190e708b425a177d80c3e10a4ee}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Robin\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=63aa76a49245c637b434b8a50839b4f8}{%
+           family={Wegener},
+           familyi={W\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=731aca1e3a19637451338ef658dcaadb}{%
+           family={Orfino},
+           familyi={O\bibinitperiod},
+           given={Francesco\bibnamedelima P.},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c32ed3f8d2303063355ed79d3b65dc19}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5b4ae68862bc7a9375a9d25e778f0fac}{%
+           family={Kjeang},
+           familyi={K\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e23d8290f8d03ef7cb060eb4a27fad24}
+      \strng{fullhash}{de9927466a1c0cca945b32ce1358697c}
+      \strng{bibnamehash}{e23d8290f8d03ef7cb060eb4a27fad24}
+      \strng{authorbibnamehash}{e23d8290f8d03ef7cb060eb4a27fad24}
+      \strng{authornamehash}{e23d8290f8d03ef7cb060eb4a27fad24}
+      \strng{authorfullhash}{de9927466a1c0cca945b32ce1358697c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Composite ionomer membranes with ePTFE reinforcement have been developed to improve operational durability of polymer electrolyte fuel cells by creating a more mechanically robust membrane electrode assembly. The present objective is to determine the morphological damage evolution of a reinforced membrane subjected to pure mechanical degradation by wet/dry cycling in a fuel cell. Identical-location four-dimensional in situ visualization by X-ray computed tomography is used to reveal the progressive degradation stages from initiation via propagation to failure. The observed degradation process is dominated by fatigue driven membrane fracture which is primarily confined under the channel area. When compared to degradation of non-reinforced membranes, the results for the reinforced membrane demonstrate similar non-linear progression of membrane fracture, but at 2-3x lower rate due to the improved fracture resistance of ePTFE reinforcement. Membrane-catalyst layer delamination and catalyst layer cracks are identified as preceding drivers of local membrane fracture, while wet and dry phase in situ imaging demonstrates hydration induced through-plane swelling of 30\% and widespread crack closure at advanced degradation states. Overall, these results provide new understanding of mechanical degradation in composite membranes and prospective directions for further durability enhancements.}
+      \field{issn}{0360-3199}
+      \field{journaltitle}{International Journal of Hydrogen Energy}
+      \field{number}{16}
+      \field{title}{4D in situ visualization of mechanical degradation evolution in reinforced fuel cell membranes}
+      \field{volume}{45}
+      \field{year}{2020}
+      \field{pages}{10089\bibrangedash 10103}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijhydene.2020.02.013
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360319920304894
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360319920304894
+      \endverb
+      \keyw{Reinforced membrane,Fuel cell,Fracture,Crack,Visualization,X-ray computed tomography}
+    \endentry
+    \entry{Yazdanpour2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=895f4550573b70dbb3eeed07afe76f75}{%
+           family={Yazdanpour},
+           familyi={Y\bibinitperiod},
+           given={Maryam},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1308252d80613ea60ee878ee584e1244}{%
+           family={Esmaeilifar},
+           familyi={E\bibinitperiod},
+           given={Ashkan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=541dc6938aa1d7df91f13728c0daa5f3}{%
+           family={Rowshanzamir},
+           familyi={R\bibinitperiod},
+           given={Soosan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{dae167f133a61f5ec0e63efc954c4489}
+      \strng{fullhash}{2bd6d6866d3f3db18e55fed7895260bb}
+      \strng{bibnamehash}{2bd6d6866d3f3db18e55fed7895260bb}
+      \strng{authorbibnamehash}{2bd6d6866d3f3db18e55fed7895260bb}
+      \strng{authornamehash}{dae167f133a61f5ec0e63efc954c4489}
+      \strng{authorfullhash}{2bd6d6866d3f3db18e55fed7895260bb}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In our previous work, a hydrothermal method was employed to prepare Pt/MWCNTs nanocomposites with 20 wt.\% Pt, a low mean Pt nanoparticles size (2.8 nm) and a specific surface area of 99 m2 g-1. In this work, the membrane electrode assemblies (MEAs) with hydrothermally synthesized Pt/MWCNTs nanocatalysts were fabricated by catalyst-coated membrane (CCM) method. For this purpose, a commercial HP inkjet printer was used to deposit Pt/MWCNTs ink (as catalyst ink) directly on to the substrate (Nafion membrane or decal substrate) with a loading of 0.2 mg cm-2 Pt for both the anode and cathode. The effects of hot-pressing conditions on the performance of MEAs were investigated through Taguchi design of experiments method using temperature (100 and 130°C), pressure (800 and 1000 psi) and time (3 and 5 min) as effective experimental parameters. The compression ratios of MEAs were determined by testing the thicknesses before and after hot-pressing process. The performance of MEAs was characterized by the polarization curves and cyclic voltammetry (CV) and the surface morphologies of the electrodes were observed by scanning electron microscopy (SEM). The results showed that the most appropriate hot-pressing conditions were 800 psi, 100°C, and 3 min. Electrochemical analysis and physical property examination revealed that the MEA fabricated by CCM method has a better performance compared to the one prepared by conventional decal transfer (DT) method. © 2012, Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights.}
+      \field{issn}{0360-3199}
+      \field{issue}{15}
+      \field{journaltitle}{International Journal of Hydrogen Energy}
+      \field{month}{8}
+      \field{title}{Effects of hot pressing conditions on the performance of Nafion membranes coated by ink-jet printing of Pt/MWCNTs electrocatalyst for PEMFCs}
+      \field{volume}{37}
+      \field{year}{2012}
+      \field{pages}{11290\bibrangedash 11298}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/J.IJHYDENE.2012.04.139
+      \endverb
+      \keyw{Catalyst coated membrane,Hot pressing,Membrane electrode assembly,Proton exchange membrane fuel cell,Pt/MWCNTs nanocomposite}
+    \endentry
+    \entry{Bauer2005}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e74ddab03fad357f5e3fbb488c8b85ee}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a4ddae46c068337175e5a379e62a1921}{%
+           family={Denneler},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f852107eeb40b525dfa51b7947d35e3b}{%
+           family={Willert-Porada},
+           familyi={W\bibinithyphendelim P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{71f00dbc5a113afdd0eef8882c480dfb}
+      \strng{fullhash}{65cae19e5521211602f2b9ecff937922}
+      \strng{bibnamehash}{65cae19e5521211602f2b9ecff937922}
+      \strng{authorbibnamehash}{65cae19e5521211602f2b9ecff937922}
+      \strng{authornamehash}{71f00dbc5a113afdd0eef8882c480dfb}
+      \strng{authorfullhash}{65cae19e5521211602f2b9ecff937922}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The dynamic mechanical properties of Nafion\circledR 117 have been measured in-plane parallel and perpendicular to the lamination direction in a specially designed humidity cell, which allows measurement of the stiffness and mechanic loss under fuel cell relevant temperature and humidity conditions (50-100\% relative humidity, 30-120°C). The results obtained at different temperature-humidity conditions are compared with the mechanical behavior of the dry as well as the membrane saturated with liquid water. Different regimes of change in mechanical properties were found, although in general water acts as a plasticizer in Nation®. At elevated temperatures it stiffens the membrane by stabilizing the network of hydrophilic clusters. An intermediate increase of mechanical strength at very low humidity levels is attributed to an enforcement by formation of hydrates and hydrogen bridge bonds between vicinal sulfonic acid groups. This increase is significant for the protonated state of the membrane and disappears after ion exchange. © 2005 Wiley Periodicals, Inc.}
+      \field{issn}{1099-0488}
+      \field{issue}{7}
+      \field{journaltitle}{Journal of Polymer Science Part B: Polymer Physics}
+      \field{month}{4}
+      \field{title}{Influence of temperature and humidity on the mechanical properties of Nafion® 117 polymer electrolyte membrane}
+      \field{volume}{43}
+      \field{year}{2005}
+      \field{pages}{786\bibrangedash 795}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/POLB.20367
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/polb.20367 https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.20367 https://onlinelibrary.wiley.com/doi/10.1002/polb.20367
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/polb.20367%20https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.20367%20https://onlinelibrary.wiley.com/doi/10.1002/polb.20367
+      \endverb
+      \keyw{Nafion\circledR,dynamic mechanical analysis,fuel cell,glass transition,ionomers,mechanical properties}
+    \endentry
+    \entry{Ghassemzadeh2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9c1f3fdc231938ca0307a93ba9afa165}{%
+           family={Ghassemzadeh},
+           familyi={G\bibinitperiod},
+           given={Lida},
+           giveni={L\bibinitperiod}}}%
+        {{hash=478ce964df54ff8e4b42c801636f6042}{%
+           family={Kreuer},
+           familyi={K\bibinitperiod},
+           given={Klaus-Dieter},
+           giveni={K\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=4a1b991fb45a33690094d3fd2fee27b1}{%
+           family={Maier},
+           familyi={M\bibinitperiod},
+           given={Joachim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=38c52f9b4cd7e7547b3d6a36dfe74c3d}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{7310533b565b41982aa2f2c924230792}
+      \strng{fullhash}{e88360c8c74b9fd8b667023ea91236bd}
+      \strng{bibnamehash}{7310533b565b41982aa2f2c924230792}
+      \strng{authorbibnamehash}{7310533b565b41982aa2f2c924230792}
+      \strng{authornamehash}{7310533b565b41982aa2f2c924230792}
+      \strng{authorfullhash}{e88360c8c74b9fd8b667023ea91236bd}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A new ex situ method has been developed to mimic the degradation of the polymer membranes in polymer electrolyte membrane fuel cells (PEMFCs), caused by the cross-leakage of H2 and O2. In this ex situ setup, it is possible to expose membranes to flows of different gases with a controlled temperature and humidity. H+-form Nafion films with and without an electrode layer (Pt) have been treated in the presence of different gases in order to simulate the anode and cathode side of a PEMFC. The changes of the chemical structure occurring during the degradation tests were primarily examined by solid-state 19F NMR spectroscopy. For completion, liquid-state NMR studies and ion-exchange capacity measurements were performed. The molecular mobility changes of the ionomer membrane upon degradation were examined for the first time by variabletemperature 19F NMR line-shape, T1 and T1ρ relaxation experiments. It was found that degradation occurs only when both H2 and O2 are present (condition of gas cross-leakage) and when the membrane is coated with a Pt catalyst. The chemical degradation rate is found to be highest for H 2-rich mixtures of H2 and O2, which corresponds to the anode under OCV conditions. It is further shown that side-chain disintegration is very important for chemical degradation, although backbone decomposition also takes place. The temperaturedependent line-width and spectral anisotropy alterations were explained by the reduction of static disorder in the Nafion membrane. From the relaxation data, there is evidence for structural annealing, which is independent of the chemical degradation. Chemical degradation is considered to reduce the chain flexibility, as expressed by smaller motional amplitudes, most probably due to chain cross-linking. © 2010 American Chemical Society.}
+      \field{issn}{1932-7447}
+      \field{issue}{34}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{month}{9}
+      \field{title}{Chemical Degradation of Nafion Membranes under Mimic Fuel Cell Conditions as Investigated by Solid-State NMR Spectroscopy}
+      \field{volume}{114}
+      \field{year}{2010}
+      \field{pages}{14635\bibrangedash 14645}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1021/jp102533v
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/jp102533v
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/jp102533v
+      \endverb
+    \endentry
+    \entry{Kurniawan2013}{article}{}
+      \name{author}{4}{}{%
+        {{hash=70476138d8ac2cfe2144722c546c0364}{%
+           family={Kurniawan},
+           familyi={K\bibinitperiod},
+           given={Dodik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dcbfc1f1cd44b0ead46da8ae3ea1a480}{%
+           family={Arai},
+           familyi={A\bibinitperiod},
+           given={Hayato},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8e23e40c39761765500d59d5f599c579}{%
+           family={Morita},
+           familyi={M\bibinitperiod},
+           given={Shigeaki},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bdba7ddc56b47bcf9a81f647ed1b6778}{%
+           family={Kitagawa},
+           familyi={K\bibinitperiod},
+           given={Kuniyuki},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{356de5288a7661a11c790ac64a016d45}
+      \strng{fullhash}{3c9bcdae84cde2ac97c563c8cd6f2b1e}
+      \strng{bibnamehash}{356de5288a7661a11c790ac64a016d45}
+      \strng{authorbibnamehash}{356de5288a7661a11c790ac64a016d45}
+      \strng{authornamehash}{356de5288a7661a11c790ac64a016d45}
+      \strng{authorfullhash}{3c9bcdae84cde2ac97c563c8cd6f2b1e}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Chemical degradation products of a Nafion membrane on the catalyst interface of polymer electrolyte fuel cell (PEFC) by hydrogen and oxygen feeding into the anode were studied by high-performance liquid chromatography (HPLC). An acidic solution of pH5.3 was obtained after the anode reaction and 5.0×10 -6mol·l -1 of hydrogen fluoride was detected by HPLC. Degradation mechanisms of the ionomer induced by trace radical species were simulated by means of quantum chemical calculations using a model side chain terminal of trifluoromethanesulfonate (TFMS). The results indicate that H radicals and OH radicals generated by the reaction on the interface induce the production of hydrogen fluoride, carbonyl fluoride and sulfonic acids. The bond dissociation energies (BDE) of CS and CF bond in TFMS are calculated to be 214.5 and 569.6kJ·mol -1, respectively. It was clarified that the degradation of TFMS is affected not only by BDE but also by the behavior of fluorine atoms. © 2012 Elsevier B.V.}
+      \field{issn}{0026265X}
+      \field{journaltitle}{Microchemical Journal}
+      \field{month}{1}
+      \field{title}{Chemical degradation of Nafion ionomer at a catalyst interface of polymer electrolyte fuel cell by hydrogen and oxygen feeding in the anode}
+      \field{volume}{106}
+      \field{year}{2013}
+      \field{pages}{384\bibrangedash 388}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.microc.2012.10.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0026265X1200241X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0026265X1200241X
+      \endverb
+      \keyw{Bond dissociation energy,Chemical degradation,Hydrogen fluoride,Quantum chemical calculation,Trace radical,Trifluoromethanesulfonate}
+    \endentry
+    \entry{Xie2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c77ea550c7e62a3d99bc4566ec8bf281}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fcb0a6faaec56281a14f4844843a7f81}{%
+           family={Ban},
+           familyi={B\bibinitperiod},
+           given={Shuai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3342346b9868dfc3f4b9f0f8fa309583}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Bei},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e2140a2c65cd38501dbb385e572c2e30}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Hongjun},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {North-Holland}%
+      }
+      \strng{namehash}{06a66e2d9370f44baf520061b6a9b8e7}
+      \strng{fullhash}{188ecfa148fa3e7b6e5d35e3a5b05eec}
+      \strng{bibnamehash}{06a66e2d9370f44baf520061b6a9b8e7}
+      \strng{authorbibnamehash}{06a66e2d9370f44baf520061b6a9b8e7}
+      \strng{authornamehash}{06a66e2d9370f44baf520061b6a9b8e7}
+      \strng{authorfullhash}{188ecfa148fa3e7b6e5d35e3a5b05eec}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A combined modeling approach using kinetic Monte Carlo and molecular dynamics simulations is applied to investigate both chemical and mechanical degradation of Nafion membranes on the molecular level. In different hydration conditions, two major degradation reactions are identified to be the main chain unzipping and the side chain scission. The dissolution process of Nafion is evaluated in terms of weight loss, production emission rate and evolution of functional groups. Further, the complicated structural deformation is preliminarily investigated by imposing linear strain on degraded Nafion membrane. Different craze patterns are compared before and after chemical degradation, and the mechanism of crack propagation is proposed. Finally, prospective applications of our modeling approach are addressed for future studies of membrane degradation phenomena under fuel cell operation conditions.}
+      \field{issn}{01694332}
+      \field{journaltitle}{Applied Surface Science}
+      \field{month}{1}
+      \field{title}{A molecular simulation study of chemical degradation and mechanical deformation of hydrated Nafion membranes}
+      \field{volume}{362}
+      \field{year}{2016}
+      \field{pages}{441\bibrangedash 447}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.apsusc.2015.11.144
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S016943321502841X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S016943321502841X
+      \endverb
+      \keyw{Chemical mechanism,Computer modeling,Crack propagation,Fuel cell,Nanostructural deformation,Polymer}
+    \endentry
+    \entry{Chen2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=90ea174e8cf93b1be0a5f0d29098868d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=05fa94392ecfe32c86be808885a6c141}{%
+           family={Fuller},
+           familyi={F\bibinitperiod},
+           given={Thomas\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{fullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{bibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{authorbibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{authornamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{authorfullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Controlling the activity of water in the reactant streams is critical both to the design of fuel-cell systems and to the useable life of membrane separators. In this study, fuel-cell durability tests were conducted under different levels of relative humidity. The emission rates of various degradation products such as HF, SO42- and TFA (trifluoroacetic acid) were determined as a function of water activity. The degradation of the membrane was accelerated as the level of water activity is reduced. The membranes become less conductive, more brittle and rigid after fuel-cell testing. ATR-FTIR investigations showed that the decomposition of the ether group in the middle of side chain corresponds well with the detection of a TFA product. Thermogravimetric analysis also showed a decrease in thermal stability after testing at lower humidity. Formation of cracks was observed in membranes degraded under conditions of low humidity. A model of membrane degradation based on the main chain unzipping process indicates that the mechanism changes with water activity. Finally, the representative reaction pathways in each degradation scheme were postulated. © 2009 Elsevier Ltd. All rights reserved.}
+      \field{issn}{0141-3910}
+      \field{issue}{9}
+      \field{journaltitle}{Polymer Degradation and Stability}
+      \field{month}{9}
+      \field{title}{The effect of humidity on the degradation of Nafion® membrane}
+      \field{volume}{94}
+      \field{year}{2009}
+      \field{pages}{1436\bibrangedash 1447}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/J.POLYMDEGRADSTAB.2009.05.016
+      \endverb
+      \keyw{ATR-FTIR,Degradation mechanism,Nafion® membrane,Relative humidity,TGA}
+    \endentry
     \entry{Okonkwo2021_I}{article}{}
       \name{author}{4}{}{%
         {{hash=aa11960f4f987a39240c0fc4dfe5052e}{%
@@ -381,8 +756,8 @@
       \strng{authornamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
       \strng{authorfullhash}{3aec74017e208d7a1388377632e05e7b}
       \field{extraname}{1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Nafion is one of the polymer materials used as polymer electrode membrane (PEM) for fuel cells. However, the electrochemical reaction and water management processes that occur at the catalyst layer affect the performance and degradation of the membrane in the fuel cell resulting in various degradation mechanisms. Understanding the degradation mechanisms of the Nafion membrane in operation, the anhydrous and electrochemical conditions in the fuel cell is highly a necessity as outlined in this review. This review further recommends that further improvement in the Nafion membrane can be made by fabrication and coating the Nafion membrane with materials that can withstand the electrochemical environment in the fuel cell.}
@@ -454,8 +829,8 @@
       \strng{authornamehash}{5dfd4cd8d23b3e588434f00f0d9e8c01}
       \strng{authorfullhash}{8fa77f5f81ca4e4926dcb57cecd04dfa}
       \field{extraname}{2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Proton Exchange Membrane Fuel Cells (PEMFCs) have the perspective to intensely decrease global emission through environmentally-friendly potential. This review paper summarizes the degradation of platinum catalyst layer that has become a significant issue in the improvement of PEMFCs. The review intends to categorise and provide a clear understanding between disintegration and agglomerate that occurs during platinum degradation. In each process, different degradation mechanisms and their migration processes are presented. The improvement in platinum degradation as a function of increasing the performance of PEMFC is established. Prospects for addressing platinum degradation through the exploration of further experimental and numerical research are recommended. Lastly, this paper through recommendation attempts to prevent platinum degradation and reduces high costs associated with the replacement of catalysts in the PEMFCs.}
@@ -518,8 +893,8 @@
       \strng{authorbibnamehash}{6deca6d8d6e0ef389243ed2d913c3bf3}
       \strng{authornamehash}{6deca6d8d6e0ef389243ed2d913c3bf3}
       \strng{authorfullhash}{1935f429800fd4eb46d4aaf94e196f46}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{<p>Durability is the most pressing issue preventing the efficient commercialization of polymer electrolyte membrane fuel cell (PEMFC) stationary and transportation applications. A big barrier to overcoming the durability limitations is gaining a better understanding of failure modes for user profiles. In addition, durability test protocols for determining the lifetime of PEMFCs are important factors in the development of the technology. These methods are designed to gather enough data about the cell/stack to understand its efficiency and durability without causing it to fail. They also provide some indication of the cell/stack’s age in terms of changes in performance over time. Based on a study of the literature, the fundamental factors influencing PEMFC long-term durability and the durability test protocols for both PEMFC stationary and transportation applications were discussed and outlined in depth in this review. This brief analysis should provide engineers and researchers with a fast overview as well as a useful toolbox for investigating PEMFC durability issues.</p>}
@@ -570,8 +945,8 @@
       \strng{authorbibnamehash}{b44e144aefbb04a1e4f1fdfe56f19eb0}
       \strng{authornamehash}{c45d5ef85e2bd7d9b4e7bf169272d4df}
       \strng{authorfullhash}{b44e144aefbb04a1e4f1fdfe56f19eb0}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The performance of H2/O2 proton exchange membrane fuel cells (PEMFCs) fed with CO-contaminated hydrogen was investigated for anodes with PdPt/C and PdPtRu/C electrocatalysts. The physicochemical properties of the catalysts were characterized by energy dispersive X-ray (EDX) analyses, X-ray diffraction (XRD) and "in situ" X-ray absorption near edge structure (XANES). Experiments were conducted in electrochemical half and single cells by cyclic voltammetry (CV) and I-V polarization measurements, while DEMS was employed to verify the formation of CO2 at the PEMFC anode outlet. A quite high performance was achieved for the PEMFC fed with H2 + 100 ppm CO with the PdPt/C and PdPtRu/C anodes containing 0.4 mg metal cm-2, with the cell presenting potential losses below 200 mV at 1 A cm-2, with respect to the system fed with pure H2. For the PdPt/C catalysts no CO2 formation was seen at the PEMFC anode outlet, indicating that the CO tolerance is improved due to the existence of more free surface sites for H2 electrooxidation, probably due to a lower Pd-CO interaction compared to pure Pd or Pt. For PdPtRu/C the CO tolerance may also have a contribution from the bifunctional mechanism, as shown by the presence of CO2 in the PEMFC anode outlet. © 2008 Elsevier Ltd. All rights reserved.}
@@ -622,8 +997,8 @@
       \strng{authorbibnamehash}{bc481db2450e4f4dd154842deed8423b}
       \strng{authornamehash}{2ff2d926e61160dc3d76e8641d88c5ae}
       \strng{authorfullhash}{bc481db2450e4f4dd154842deed8423b}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The degradation of Pt-based catalyst severely limits the lifetime of a fuel cell with a proton-conductive polymer electrolyte membrane (PEM FC) operating with H2 as the fuel and O2 as the oxidant. In this paper, a review of recent progress in the description of degradation mechanisms by experimental techniques and a prediction of the extent of degradation by means of mathematical modelling are presented. Significant progress in the development of PEM FCs has been achieved both by basic research and advanced single-cell testing, often combining electrochemical and in situ analytical methods. The intensity of degradation processes is strongly dependent on operating conditions and, consequently, their experimental investigation requires a different scientific approach for each type of PEM FC. Mathematical modelling complements experimental studies to describe the individual degradation mechanisms.}
@@ -678,8 +1053,8 @@
       \strng{authorbibnamehash}{d1f3e38e0ea77be7489a1179912b3590}
       \strng{authornamehash}{d1f3e38e0ea77be7489a1179912b3590}
       \strng{authorfullhash}{265392e6b67b763e40d434a97c8a7438}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A detailed understanding of oxidation/dissolution mechanisms of Pt is critical in designing durable catalysts for the oxygen reduction reaction (ORR), but exact mechanisms remain unclear. The present work explores the oxidation/dissolution of Pt and Pt monolayer (ML) electrocatalysts over a wide range of applied potentials using cells that facilitate in situ measurements by combining X-ray absorption spectroscopy (XAS) and X-ray diffraction (XRD) measurements. The X-ray absorption near edge structure (XANES) measurement demonstrated that Pt nanoparticle surfaces were oxidized from metallic Pt to α-PtO2-type oxide during the potential sweep from 0.41 to 1.5 V, and the transition state of O or OH adsorption on Pt and the onset of the place exchange process were revealed by the delta mu (Δμ) method. Only the top layers of Pt nanoparticles were oxidized, while the inner Pt atoms remained intact. At a higher potential over 1.9 V, α-PtO2-type surface oxides dissolve due to local acidification caused by the oxygen evolution reaction and carbon corrosion. Pt oxidation of PtML on the Pd nanoparticle electrocatalyst is considerably hampered compared with the Pt/C catalyst, presumably because preferential Pd oxidation proceeds at the defects in Pt MLs up to 0.91 V and through O penetrated through the Pt MLs by the place exchange process above 1.11 V.}
@@ -879,8 +1254,8 @@
       \strng{authorbibnamehash}{4d617032ac2b8e0297efb63a6a9b0489}
       \strng{authornamehash}{91d1c13b1ebf208dbb2c1f931b909d89}
       \strng{authorfullhash}{4d617032ac2b8e0297efb63a6a9b0489}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Synchrotron X-ray radiography was employed to visualize the distribution of liquid water throughout an operating polymer electrolyte membrane fuel cell (PEMFC). The behavior of liquid water in the fuel cells assembled with and without micro-porous layers (MPLs) was compared. Through-plane images under various operating conditions combined with PEMFC performance revealed that, under wet conditions, the MPL was associated with an increased number of breakthrough locations, resulting in higher operating potentials. With these results, it is suggested that the MPL prevents liquid water from agglomerating into larger clusters at the catalyst layer/MPL interface, thereby reducing the number of blocked pathways for oxygen transport. © 2012 Elsevier B.V. All rights reserved.}
@@ -945,8 +1320,8 @@
       \strng{authorbibnamehash}{e7fc7a116a96fe2b437013730b575903}
       \strng{authornamehash}{e7fc7a116a96fe2b437013730b575903}
       \strng{authorfullhash}{cda3fb6a0578f9f071d9dc1b96f41951}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Synchrotron radiation (SR) based imaging of polymer electrolyte fuel cells (PEFC), both radiography and tomography, is an attractive tool for the visualization of water in the gas diffusion layer as it provides temporal and spatial resolutions one order of magnitude superior to neutron imaging. Here we report on the degradation of cell performance and changes in GDL water saturation after SR irradiation of about 43\% of a cell's active area. Fast X-ray tomographic microscopy (XTM) scans of 11 s duration are used to compare the GDL saturation before and after a 5 min irradiation period of the imaged section. The cell voltage and the water saturation decreased clearly during and after the exposure. Estimates of the current density of the SR exposed and non exposed cell domains underline the effect of irradiation. © 2013 Elsevier B.V. All rights reserved.}
@@ -1001,8 +1376,8 @@
       \strng{authorbibnamehash}{a00d0d5af855c602a08c5d2950ba63fa}
       \strng{authornamehash}{a00d0d5af855c602a08c5d2950ba63fa}
       \strng{authorfullhash}{6aa9105235722efb30fc5274cd6221d0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In order to investigate the effect of the cracks on the MPL on liquid water transport, the cross-sectional imaging (cell membrane parallel to the beam) of liquid water behavior in the operating PEMFC was carried out by laboratory-based soft X-ray radiography technique. The spatial and temporal resolutions of the visualization were 0.5 um and 2 s/frame, respectively. The carbon cloth GDLs with the cracked MPL were used and each layer of the PEMFC and the crack on the MPL were clearly visualized. The results clearly showed that the liquid water mainly flows through the crack on the MPL to the substrate layer, and no liquid water was observed in the MPL. Because the MPL is highly hydrophobic, the MPL can limit the liquid water access to the substrate layer. On the other hand, liquid water tends to be stored in the interface between the CL and the MPL. These results suggest that the larger pores (e.g. cracks) on the MPL function as the liquid water pathway to the substrate layer, and the smaller pores on the MPL function as the gas transport path, and the surface morphology of the MPL might affect the liquid water transport in the PEMFC. © 2011 Elsevier B.V. All Rights Reserved.}
@@ -1058,8 +1433,8 @@
       \strng{authorbibnamehash}{d2c392b4c97b20b5c1dc27a211ee3321}
       \strng{authornamehash}{d2c392b4c97b20b5c1dc27a211ee3321}
       \strng{authorfullhash}{9f34933624ad169637991598d09d4d53}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The management of water is a challenging issue to achieving high power density, long-term operation, and increased robustness in PEMFCs. Development of in-situ diagnostic techniques to understand the dynamic behavior of liquid water is needed. In this study, visualization of liquid water across the membrane electrolyte assembly (MEA) of operating PEMFCs was performed by using high-resolution soft X-ray radiography, with which was possible to distinguish the catalyst layer (CL), polymer electrolyte membrane, and gas diffusion layer (GDL) of the MEA. Dynamic liquid water transport behavior in the cathode CL and GDL was observed at high spatial and temporal resolution (1 frame/s). At low current density, generation of liquid water was recognized under the rib, while at high current density, liquid water was observed both under the rib and the channel. Temporal behaviors of liquid water accumulation in GDL under the rib and discharge process of liquid water to under the channel were also visualized. © 2011, Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights reserved.}
@@ -1125,8 +1500,8 @@
       \strng{authorbibnamehash}{325cd84aba237fc4f8a08a6c9bd79d24}
       \strng{authornamehash}{325cd84aba237fc4f8a08a6c9bd79d24}
       \strng{authorfullhash}{cee379a894def94e23474cdca5b89152}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The electrochemical oxidation behaviors of the surfaces of platinum nanoparticles, one of the key phenomena in fuel cell developments, were investigated in situ and in real time, via time-resolved hard X-ray diffraction and energy dispersive X-ray absorption spectroscopy. Combining two complementary structural analyses, dynamical and inhomogenous structural changes occurring at the surfaces of nanoparticles were monitored on an atomic level with a time resolution of less than 1 s. After oxidation at 1.4 V vs RHE (reversible hydrogen electrode) in a 0.5 M H2SO4 solution, longer Pt-O bonds (2.2-2.3 A that can be assigned to OHH and/or OH species) were first formed on the surface through the partial oxidation of water molecules. Next, these species turned to shorter Pt-0 bonds (2.0 Å, adsorbed atomic oxygen), and atomic oxygen was incorporated into the inner part of the nanoparticles, forming an initial monolayer oxide that had α-PtO 2-like local structures with expanded Pt-Pt bonds (3.1 Å). Finally, quasi-three-dimensional oxides with longer Pt-(O)-Pt bonds (3.5 A, precursor for β-PtO2) grew on the surface, at almost 100 s after oxidation. Despite the very complex oxidation mechanism on the atomic level, XANES analysis indicated that the charge transfer from platinum to the adsorbed oxygen species was almost constant and rather small, that is, about 0.5 electrons per oxygen, up to two monolayers of oxygen. This means that ionic polarization hardly develops at this stage of the surface platinum's "oxide" growth. © 2009 American Chemical Society.}
@@ -1202,8 +1577,8 @@
       \strng{authornamehash}{3603e7b102a8b4394ccfa4083a3df499}
       \strng{authorfullhash}{034b6989cdab32f11c9db1cf1aa06fd9}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The processes leading to degradation of Pt nanoparticles inside commercial hydrogen fuel cell catalyst layers are studied in situ, using time-resolved high-energy powder X-ray diffraction. Advances in electrochemical cell design significantly increase the quality of diffraction patterns obtained at practical catalyst loadings at high temporal resolution and allow the use of advanced techniques including differential pair distribution function analysis. Rietveld refinement of the lattice parameter and peak intensities during cyclic voltammetry or potential steps allow the separate steps of oxygen electroadsorption and place exchange in the Pt oxide growth mechanism to be clearly differentiated. The slow kinetics of the place-exchange process limit the oxide growth under standard laboratory conditions, decoupling the surface chemistry of the nanoparticles from the applied potential and directly affecting the outcome of accelerated stress tests measured with different cycling schemes. High-speed diffraction measurements are also used to follow the oxide reduction reaction, which is much faster. Refined structural parameters from these data show direct evidence for a transient, disordered platinum intermediate created during reduction of the oxide, which is likely responsible for catalyst dissolution when cycling to high potentials.}
@@ -1345,8 +1720,8 @@
       \strng{authornamehash}{3603e7b102a8b4394ccfa4083a3df499}
       \strng{authorfullhash}{69f5037e3810b5ea6ea72dde8e561e06}
       \field{extraname}{3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The proliferation of hydrogen fuel cell systems is hindered by a degradation of the platinum catalyst. Here, we provide a device-level assessment of the catalyst degradation phenomena and its coupling to nanoscale hydration gradients, using advanced operando X-ray scattering tomography tailored for device-scale imaging. Gradients formed inside the fuel cell produce a heterogeneous degradation of the catalyst nanostructure, which can be linked to the flow field design and water distribution in the cell. Striking differences in catalyst degradation are observed between operating fuel cell devices and the liquid cell routinely used for catalyst stability studies, highlighting the crucial impact of the complex operating environment on the catalyst degradation phenomena. This degradation knowledge gap accentuates the necessity of multimodal, in situ characterization of real devices when assessing the performance and durability of electrocatalysts and, more generally, electrochemically active phases used in energy conversion and storage technologies.}
@@ -1407,8 +1782,8 @@
       \strng{authornamehash}{9d8ac71697bc4b59e7d015a7c42e9e12}
       \strng{authorfullhash}{d11528232413253c92ae7245d274589f}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Solid Oxide Fuel Cell (SOFC) is a high-performance electrochemical device for energy conversion. A single cell is composed of five layers made of different ceramic materials: anode support, anode functional layer, electrolyte, cathode functional layer and cathode. The mechanical integrity of the cell is a major issue during its lifetime, especially for the electrolyte layer. Damage of the cells is mainly due to the high operating temperature, the "redox" behaviour of the anode and the brittleness of the involved materials. Since residual stresses are known to play a significant role in the damage evolution, it is important to determine them. For this purpose, residual stresses in an anode-supported planar SOFC were measured by X-ray diffraction. Firstly, macroscopic stresses in each phase of each layer were studied using the sin2ψ method on a laboratory X-ray goniometer at room temperature. This technique enables the calculation of residual stress of the material from the measurement of the crystal lattice deformation. The electrolyte has been found under bi-axial compressive stress of -920 MPa. Secondly, X-ray measurements controlling depth penetration were made in the electrolyte using grazing incidence method. The results show that the stress is not homogenous in the layer. The first five micrometers of the electrolyte have been found less constrained (-750 MPa) than the complete layer, suggesting a gradient of deformation in the electrolyte from the interface with the Anode Functional Layer to the free surface. Finally, local stress measurements were made on the electrolyte layer by X-ray synchrotron radiation that allows high accuracy measurement on the (sub-) micrometer scale. Polychromatic and monochromatic beams are used to determine the complete strain tensor from grain to grain in the electrolyte. First results confirm the macroscopic stress trend of the electrolyte. These X-ray techniques at different scales will contribute to a better understanding of the residual stress in the electrolyte layer and thus to the involved damage mechanisms. © 2009 Elsevier B.V. All rights reserved.}
@@ -1479,8 +1854,8 @@
       \strng{authorbibnamehash}{7e30c54d6b4f85568a4c749d3ad6fe6f}
       \strng{authornamehash}{7e30c54d6b4f85568a4c749d3ad6fe6f}
       \strng{authorfullhash}{12d86045ba7b60a27f3db6937bbbc6a6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In recent years, developments in tomography tools have provided unprecedented insight into the microstructure of electrodes for solid oxide fuel cells, enabling researchers to establish direct links between electrode microstructure and electrochemical performance. Here we present results of high resolution, synchrotron X-ray nano computed tomography experiments, which have enabled microstructural characterisation of a mixed ionic electronic conducting lanthanum strontium cobalt iron oxide (LSCF) cathode with sub-50nm resolution at operating temperature. Using the uniquely non-destructive nano-CT platform, it is possible to characterise microstructural evolution processes associated with heating and operation in-situ. © 2011 The Electrochemical Society.}
