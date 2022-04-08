@@ -15,7 +15,7 @@
 \begin{figure} [h]
 	\centering
 	\includegraphics[width=0.7\linewidth]{images/research_trends}
-	\caption[Распределение статей по различным темам]{На графике обозначено распределение по годам доли статей по темам от всех статей по теме ПОМТЭ}
+	\caption[Распределение статей по различным темам]{На графике обозначено распределение по годам доли статей по темам от всех публикаций по теме ПОМТЭ}
 	\label{fig:research_trends}
 \end{figure}
 
@@ -24,6 +24,18 @@
 
 \subsubsection{Мембрана}
 
+\definesubmol{sidechain}{(-[6,0.75]CF_2 -[,0.75] CF(-[2,0.75]CF_3) -[,0.75] O -[,0.75] CF_2CF_2 -[,0.75] SO_3 H)}
+\definesubmol{leftchain}{(-[4,0.75]CF_2(-[4,0.75]))}
+\begin{scheme}
+	\centering
+	\schemestart
+	\chemfig{-[@{op,1}]CF_2-CF(-[6,0.75]O!{sidechain})-[,0.75]-{{(CF_2CF_2)}_m}-#(0.1em)-[@{cl,0}]}
+	\polymerdelim[height = 1 em, depth = 2 em, open xshift = -1 em, close xshift = -1.5 em, indice = \!\!n]{op}{cl}
+	\schemestop 
+	\label{nafion}
+	\caption{Основная химическая структура Nafion}
+\end{scheme}
+
 Процессы, которые приводят к нарушению функций мембраны можно разделить на две крупные категории \cite{Collier2006}.
 Первая категория --- это механическая и термическая деградация. К механической относят возникновение надрывов, трещин и отверстий, а к термической --- необратимое пересыхание и термолиз.
 Ко второй категории можно отнести химические и электрохимические механизмы.
@@ -31,39 +43,63 @@
 Важно отметить, что процессы двух категорий плотно связаны друг с другом.
 Так, например, химическое разложение мембраны может привести к образованию сквозных отверстий в ней, рост которых будет проходить вследствие механизмов первой категории.
 
-\definesubmol{sidechain}{(-[6]CF_2 - CF(-[2]CF_3) - O - CF_2CF_2 - SO_3 H)}
-\definesubmol{leftchain}{(-[-4]CF_2(-[4]))}
+\def\vert{3 em}
 
-\begin{scheme} [h!]
-	{\small 
+\begin{scheme} 
+	{\scriptsize   
 	\schemestart
-	\chemfig{(O!{sidechain}(-[2]CF!{leftchain}--{(CF_2CF_2)}_m--COOH))}
+	\chemfig{(O!{sidechain}(-[2,0.75]CF!{leftchain}-[,0.75]-{{(CF_2CF_2)}_m}--[,0.5]COOH))}
 	\arrow{->[+ \charge{180=\.}{OH}][$-CO_2 \; -H_2O$]}[0,1.5]
-	\schemestop 
-	\vspace{2 em}
-	
-	\schemestart
-	\chemfig{(O!{sidechain}(-[2]CF!{leftchain}--{(CF_2CF_2)}_{m-1}--\charge{0=\.}{CF_2CF_2}))}
+%	\schemestop 
+%	\vspace{\vert}
+%	
+%	\schemestart
+	\chemfig{(O!{sidechain}(-[2,0.75]CF!{leftchain}-[,0.75]-#(,0em){{(CF_2CF_2)}_{m-1}}-#(0.1em)-\charge{0=\.}{CF_2CF_2}))}
 	\arrow{->[+ \charge{180=\.}{OH}][]}
 	\schemestop
-	\vspace{2 em}
+	\vspace{\vert}
 	
 	\schemestart
-	\chemfig{(O!{sidechain}(-[2]CF!{leftchain}--{(CF_2CF_2)}_{m-1}--CF_2CF_2-OH))}
+	\chemfig{(O!{sidechain}(-[2,0.75]CF!{leftchain}-[,0.75]-#(,0em){{(CF_2CF_2)}_{m-1}}-#(0em)-[,0.75]CF_2CF_2-OH))}
 	\arrow{->[][-HF]}
-	\schemestop
-	\vspace{2 em}
-	
-	\schemestart
-	\chemfig{(O!{sidechain}(-[2]CF!{leftchain}--{(CF_2CF_2)}_{m-1}--CF_2C(-[6,,3]F)=O))}
+%	\schemestop
+%	\vspace{\vert}
+%	
+%	\schemestart
+	\chemfig{(O!{sidechain}(-[2,0.75]CF!{leftchain}-[,0.75]-#(,0em){{(CF_2CF_2)}_{m-1}}-#(0em)-[,0.75]CF_2C(-[6,0.75,3]F)=[,0.75]O))}
 	\arrow{->[$+H_2O$][-HF]}
 	\schemestop
-	\vspace{2 em}
+	\vspace{\vert}
 	
 	\schemestart
-	\chemfig{(O!{sidechain}(-[2]CF!{leftchain}--{(CF_2CF_2)}_{m-1}--CF_2-COOH))}
-	\arrow{->[+ (4m-1) \charge{180=\.}{OH}][$-2m CO_2 \; -(4m-2) H_2O$]}[0,2.5]
+	\chemfig{(O!{sidechain}(-[2,0.75]CF!{leftchain}-[,0.75]-#(,0em){{(CF_2CF_2)}_{m-1}}-#(0em)-[,0.75]CF_2-[,0.75]COOH))}
+	\arrow{->[+(4m-1)  \charge{180=\.}{OH}][$-2m \, CO_2 \; \; -(4m-2) H_2O$]}[,3]
 	\schemestop 
+	\vspace{\vert}
+	
+	\schemestart
+	\chemfig{(O!{sidechain}(-[2,0.75]\charge{0=\.}{CF}!{leftchain}))}
+	\arrow{->[+  \charge{180=\.}{OH}][-HF]}
+	\chemfig{(O!{sidechain}(-[2,0.75]C!{leftchain}=[,0.75]O))}
+	\arrow{->[+$H_2O$][]}
+	\schemestop
+	\vspace{\vert}
+	
+	\schemestart
+	\chemfig{(O!{sidechain}(-[2,0.75]CF!{leftchain}-[,0.75]-{{(CF_2CF_2)}_n}--[,0.5]COOH))}
+	+
+	\chemfig{CF_2(-[2,0.75]OH) -[,0.75] CF(-[2,0.75]CF_3) -[,0.75] O -[,0.75] CF_2CF_2 -[,0.75] SO_3 H}
+	\arrow{->[$+H_2O$][-2HF]}
+	\schemestop 
+	\vspace{\vert}
+	
+	\schemestart
+	\chemfig{(O!{sidechain}(-[2,0.75]CF!{leftchain}-[,0.75]-{{(CF_2CF_2)}_n}--[,0.5]COOH))}
+	+
+	\chemfig{HOOC -[,0.75] CF(-[2,0.75]CF_3) -[,0.75] O -[,0.75] CF_2CF_2 -[,0.75] SO_3 H}
+	\schemestop 
+	\label{unzip}
+	\caption{Процесс расцепления основной цепи}
 }
 \end{scheme}
 
@@ -90,7 +126,7 @@
 Так, например, использование оптических и сканирующих электронных микроскопов весьма популярно по причине простоты и доступности этих методов, однако ограничения в виде сравнительно низкого разрешения и возможности изучения только приповерхностных слоёв вынуждают искать другие подходы. 
 Просвечивающая электронная микроскопия позволяет изучать образцы по всему объёму, однако резко ограничивает его максимальную толщину.
 
-ТЭМ, ЯМР, рентген + EDX, атомный силовой, FESEM
+ТЭМ, ЯМР, рентген + EDX, атомный силовой, FESEM, термогравиметрия, FTIR
 
 \subsubsection{Синхротрон}
 
