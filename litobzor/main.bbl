@@ -514,6 +514,47 @@
       \endverb
       \keyw{Nafion\circledR,dynamic mechanical analysis,fuel cell,glass transition,ionomers,mechanical properties}
     \endentry
+    \entry{Chen2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=90ea174e8cf93b1be0a5f0d29098868d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=05fa94392ecfe32c86be808885a6c141}{%
+           family={Fuller},
+           familyi={F\bibinitperiod},
+           given={Thomas\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{fullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{bibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{authorbibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{authornamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{authorfullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Controlling the activity of water in the reactant streams is critical both to the design of fuel-cell systems and to the useable life of membrane separators. In this study, fuel-cell durability tests were conducted under different levels of relative humidity. The emission rates of various degradation products such as HF, SO42- and TFA (trifluoroacetic acid) were determined as a function of water activity. The degradation of the membrane was accelerated as the level of water activity is reduced. The membranes become less conductive, more brittle and rigid after fuel-cell testing. ATR-FTIR investigations showed that the decomposition of the ether group in the middle of side chain corresponds well with the detection of a TFA product. Thermogravimetric analysis also showed a decrease in thermal stability after testing at lower humidity. Formation of cracks was observed in membranes degraded under conditions of low humidity. A model of membrane degradation based on the main chain unzipping process indicates that the mechanism changes with water activity. Finally, the representative reaction pathways in each degradation scheme were postulated. © 2009 Elsevier Ltd. All rights reserved.}
+      \field{issn}{0141-3910}
+      \field{issue}{9}
+      \field{journaltitle}{Polymer Degradation and Stability}
+      \field{month}{9}
+      \field{title}{The effect of humidity on the degradation of Nafion® membrane}
+      \field{volume}{94}
+      \field{year}{2009}
+      \field{pages}{1436\bibrangedash 1447}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/J.POLYMDEGRADSTAB.2009.05.016
+      \endverb
+      \keyw{ATR-FTIR,Degradation mechanism,Nafion® membrane,Relative humidity,TGA}
+    \endentry
     \entry{Ghassemzadeh2010}{article}{}
       \name{author}{4}{}{%
         {{hash=9c1f3fdc231938ca0307a93ba9afa165}{%
@@ -546,8 +587,8 @@
       \strng{authorbibnamehash}{7310533b565b41982aa2f2c924230792}
       \strng{authornamehash}{7310533b565b41982aa2f2c924230792}
       \strng{authorfullhash}{e88360c8c74b9fd8b667023ea91236bd}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new ex situ method has been developed to mimic the degradation of the polymer membranes in polymer electrolyte membrane fuel cells (PEMFCs), caused by the cross-leakage of H2 and O2. In this ex situ setup, it is possible to expose membranes to flows of different gases with a controlled temperature and humidity. H+-form Nafion films with and without an electrode layer (Pt) have been treated in the presence of different gases in order to simulate the anode and cathode side of a PEMFC. The changes of the chemical structure occurring during the degradation tests were primarily examined by solid-state 19F NMR spectroscopy. For completion, liquid-state NMR studies and ion-exchange capacity measurements were performed. The molecular mobility changes of the ionomer membrane upon degradation were examined for the first time by variabletemperature 19F NMR line-shape, T1 and T1ρ relaxation experiments. It was found that degradation occurs only when both H2 and O2 are present (condition of gas cross-leakage) and when the membrane is coated with a Pt catalyst. The chemical degradation rate is found to be highest for H 2-rich mixtures of H2 and O2, which corresponds to the anode under OCV conditions. It is further shown that side-chain disintegration is very important for chemical degradation, although backbone decomposition also takes place. The temperaturedependent line-width and spectral anisotropy alterations were explained by the reduction of static disorder in the Nafion membrane. From the relaxation data, there is evidence for structural annealing, which is independent of the chemical degradation. Chemical degradation is considered to reduce the chain flexibility, as expressed by smaller motional amplitudes, most probably due to chain cross-linking. © 2010 American Chemical Society.}
@@ -602,8 +643,8 @@
       \strng{authorbibnamehash}{356de5288a7661a11c790ac64a016d45}
       \strng{authornamehash}{356de5288a7661a11c790ac64a016d45}
       \strng{authorfullhash}{3c9bcdae84cde2ac97c563c8cd6f2b1e}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Chemical degradation products of a Nafion membrane on the catalyst interface of polymer electrolyte fuel cell (PEFC) by hydrogen and oxygen feeding into the anode were studied by high-performance liquid chromatography (HPLC). An acidic solution of pH5.3 was obtained after the anode reaction and 5.0×10 -6mol·l -1 of hydrogen fluoride was detected by HPLC. Degradation mechanisms of the ionomer induced by trace radical species were simulated by means of quantum chemical calculations using a model side chain terminal of trifluoromethanesulfonate (TFMS). The results indicate that H radicals and OH radicals generated by the reaction on the interface induce the production of hydrogen fluoride, carbonyl fluoride and sulfonic acids. The bond dissociation energies (BDE) of CS and CF bond in TFMS are calculated to be 214.5 and 569.6kJ·mol -1, respectively. It was clarified that the degradation of TFMS is affected not only by BDE but also by the behavior of fluorine atoms. © 2012 Elsevier B.V.}
@@ -625,6 +666,48 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0026265X1200241X
       \endverb
       \keyw{Bond dissociation energy,Chemical degradation,Hydrogen fluoride,Quantum chemical calculation,Trace radical,Trifluoromethanesulfonate}
+    \endentry
+    \entry{Yamaguchi2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=efd196e543a770802cb191d997d3d68b}{%
+           family={Yamaguchi},
+           familyi={Y\bibinitperiod},
+           given={Makoto},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{efd196e543a770802cb191d997d3d68b}
+      \strng{fullhash}{efd196e543a770802cb191d997d3d68b}
+      \strng{bibnamehash}{efd196e543a770802cb191d997d3d68b}
+      \strng{authorbibnamehash}{efd196e543a770802cb191d997d3d68b}
+      \strng{authornamehash}{efd196e543a770802cb191d997d3d68b}
+      \strng{authorfullhash}{efd196e543a770802cb191d997d3d68b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Perfluorosulfonic acid ionomer membranes have been widely used as proton conducting membranes in various electrochemical processes such as polymer electrolyte fuel cells and water electrolysis. While their thermal stability has been studied by thermogravimetry and analysis of low molecular weight products, their decomposition mechanism is little understood. In this study a newly developed methodology of thermal desorption and pyrolysis in combination with direct analysis in real time mass spectrometry is applied for Nafion membrane. An ambient ionization source and a high-resolution time-of-flight mass spectrometer enabled unambiguous assignment of gaseous products. Thermal decomposition is initiated by side chain detachment above 350°C, which leaves carbonyls on the main chain at the locations of the side chains. Perfluoroalkanes are released above 400°C by main chain scission and their further decomposition products dominate above 500 °C. DFT calculation of reaction energies and barrier heights of model compounds support proposed decomposition reactions.}
+      \field{issn}{0021-8995}
+      \field{issue}{14}
+      \field{journaltitle}{Journal of Applied Polymer Science}
+      \field{month}{4}
+      \field{title}{Thermal desorption and pyrolysis direct analysis in real time mass spectrometry of Nafion membrane}
+      \field{volume}{138}
+      \field{year}{2021}
+      \field{pages}{50172}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1002/app.50172
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/app.50172
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/app.50172
+      \endverb
+      \keyw{batteries and fuel cells,copolymers,membranes,spectroscopy,theory and modeling}
     \endentry
     \entry{Xie2016}{article}{}
       \name{author}{4}{}{%
@@ -681,47 +764,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S016943321502841X
       \endverb
       \keyw{Chemical mechanism,Computer modeling,Crack propagation,Fuel cell,Nanostructural deformation,Polymer}
-    \endentry
-    \entry{Chen2009}{article}{}
-      \name{author}{2}{}{%
-        {{hash=90ea174e8cf93b1be0a5f0d29098868d}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Cheng},
-           giveni={C\bibinitperiod}}}%
-        {{hash=05fa94392ecfe32c86be808885a6c141}{%
-           family={Fuller},
-           familyi={F\bibinitperiod},
-           given={Thomas\bibnamedelima F.},
-           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{fullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{bibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{authorbibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{authornamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{authorfullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Controlling the activity of water in the reactant streams is critical both to the design of fuel-cell systems and to the useable life of membrane separators. In this study, fuel-cell durability tests were conducted under different levels of relative humidity. The emission rates of various degradation products such as HF, SO42- and TFA (trifluoroacetic acid) were determined as a function of water activity. The degradation of the membrane was accelerated as the level of water activity is reduced. The membranes become less conductive, more brittle and rigid after fuel-cell testing. ATR-FTIR investigations showed that the decomposition of the ether group in the middle of side chain corresponds well with the detection of a TFA product. Thermogravimetric analysis also showed a decrease in thermal stability after testing at lower humidity. Formation of cracks was observed in membranes degraded under conditions of low humidity. A model of membrane degradation based on the main chain unzipping process indicates that the mechanism changes with water activity. Finally, the representative reaction pathways in each degradation scheme were postulated. © 2009 Elsevier Ltd. All rights reserved.}
-      \field{issn}{0141-3910}
-      \field{issue}{9}
-      \field{journaltitle}{Polymer Degradation and Stability}
-      \field{month}{9}
-      \field{title}{The effect of humidity on the degradation of Nafion® membrane}
-      \field{volume}{94}
-      \field{year}{2009}
-      \field{pages}{1436\bibrangedash 1447}
-      \range{pages}{12}
-      \verb{doi}
-      \verb 10.1016/J.POLYMDEGRADSTAB.2009.05.016
-      \endverb
-      \keyw{ATR-FTIR,Degradation mechanism,Nafion® membrane,Relative humidity,TGA}
     \endentry
     \entry{Okonkwo2021_I}{article}{}
       \name{author}{4}{}{%
@@ -1100,8 +1142,8 @@
       \strng{authorbibnamehash}{231de687d029ca7343021206192a3588}
       \strng{authornamehash}{231de687d029ca7343021206192a3588}
       \strng{authorfullhash}{231de687d029ca7343021206192a3588}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The structure of the Nafion ionomer used in proton-exchange membranes of H 2 /O 2 fuel cells has long been contentious. Using a recently introduced algorithm, we have quantitatively simulated previously published small-angle scattering data of hydrated Nafion. The characteristic ionomer peak arises from long parallel but otherwise randomly packed water channels surrounded by partially hydrophilic side branches, forming inverted-micelle cylinders. At 20 vol\% water, the water channels have diameters of between 1.8 and 3.5 nm, with an average of 2.4 nm. Nafion crystallites (10 vol\%), which form physical crosslinks that are crucial for the mechanical properties of Nafion films, are elongated and parallel to the water channels, with cross-sections of (5 nm) 2. Simulations for various other models of Nafion, including Gierkes cluster and the polymer-bundle model, do not match the scattering data. The new model can explain important features of Nafion, including fast diffusion of water and protons through Nafion and its persistence at lowtemperatures. © 2008 Nature Publishing Group.}
@@ -1203,8 +1245,8 @@
       \strng{authornamehash}{3603e7b102a8b4394ccfa4083a3df499}
       \strng{authorfullhash}{a1f3927f3a99ed0a8de131b8cb468833}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We have constructed a 5 cm2 proton exchange membrane hydrogen fuel cell optimized for transparency of high energy X-rays. This cell allows for in situ elastic scattering measurements (WAXS, SAXS) during electrochemical operation with minimal trade-offs in cell performance vs benchtop designs, and is capable of reaching automotive current densities. A key feature is that the beam enters the cell at grazing incidence to the electrodes, massively increasing the effective pathlength and therefore the signal-to-background ratio. The 360∘ transparency in the plane of the sample permits imaging coupled with advanced techniques, such as X-ray diffraction computed tomography.}
@@ -1925,8 +1967,8 @@
       \strng{authorbibnamehash}{ea3452a5a645a1c1fe6efa55b86dd26c}
       \strng{authornamehash}{ea3452a5a645a1c1fe6efa55b86dd26c}
       \strng{authorfullhash}{299478ad71a7cb7e08f3edfd6f2ebd05}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A high-resolution, nondestructive X-ray computed tomography (XCT) technique is applied to image the three-dimensional (3D) microstructure of a solid oxide fuel cell (SOFC) composed of a solid yttria-stabilized zirconia (YSZ) electrolyte and a porous nickel YSZ (Ni-YSZ) anode. The X-ray microscope uses the 8 keV Cu K alpha line from a laboratory X-ray source, with a reflective condenser optic lens providing a spatial resolution of 42.7 nm. The reconstructed volume data is visualized as 3D images and further postprocessed in binary-image format to obtain structural parameters. The porosity is calculated using a voxel counting method, and tortuosity is evaluated by solving the Laplace equation. A 3D representation of the microstructure is used to calculate true structural parameters and carry out a detailed study of the gas transport within an SOFC electrode at the pore scale. Simulation of multicomponent mass transport and electrochemical reactions in the anode microstructure using the XCT data as geometric input illustrate the impact of this technique on SOFC modeling. (c) 2008 The Electrochemical Society.}
@@ -1982,8 +2024,8 @@
       \strng{authornamehash}{9d8ac71697bc4b59e7d015a7c42e9e12}
       \strng{authorfullhash}{ed35b00e9ea4dda9a8681f166a2b7dd2}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this work, we investigate using nanoscale X-ray fluorescence spectroscopy the degradation processes of a cathode and an electrolyte supported cell, produced by two different suppliers, that have been long-term operated in electrolysis mode. High-resolution compositional analysis in combination with high lateral resolution are presented in the format of a 2D map with 50 nm resolution for Ni, Y, Ce, Gd, La, Sr, Co, Fe. We report on the different elements that are diffusing already during the sintering process as well as their evolution after long-term operation. In both type of cell, Co is the element that is highly segregating from the LSCF electrode during the electrochemical reaction. The CGO barrier does not prevent the diffusion of Sr in the electrolyte of the CSC cell while it does in the ESC cell. In addition, the contact layer between the hydrogen electrode and the electrolyte in the ESC cell seems to prevent the Ni depletion. A high concentration of gadolinium from the CGO layer is visible at the CGO/electrolyte interface on the oxygen electrode side as well as on the hydrogen electrode side in the ESC cell. The gadolinium concentration significantly increases during the cell operation to form a layer of a few micrometers.}
