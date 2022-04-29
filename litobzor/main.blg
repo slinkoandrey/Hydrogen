@@ -1,15 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[178] biber-MSWIN32:340> INFO - === 
-[251] Biber.pm:418> INFO - Reading 'main.bcf'
-[452] Biber.pm:972> INFO - Found 31 citekeys in bib section 0
-[477] Biber.pm:4383> INFO - Processing section 0
-[493] Biber.pm:4574> INFO - Looking for bibtex file 'bib1.bib' for section 0
-[627] bibtex.pm:1713> INFO - LaTeX decoding ...
-[831] bibtex.pm:1518> INFO - Found BibTeX data source 'bib1.bib'
-[1253] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1253] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1253] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
-[1253] Biber.pm:4209> INFO - No sort tailoring available for locale 'ru-RU'
-[1295] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1344] bbl.pm:757> INFO - Output to main.bbl
+[174] biber-MSWIN32:340> INFO - === 
+[247] Biber.pm:418> INFO - Reading 'main.bcf'
+[449] Biber.pm:972> INFO - Found 33 citekeys in bib section 0
+[472] Biber.pm:4383> INFO - Processing section 0
+[489] Biber.pm:4574> INFO - Looking for bibtex file 'bib1.bib' for section 0
+[679] bibtex.pm:1713> INFO - LaTeX decoding ...
+[907] bibtex.pm:1518> INFO - Found BibTeX data source 'bib1.bib'
+[1362] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1362] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1362] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[1362] Biber.pm:4209> INFO - No sort tailoring available for locale 'ru-RU'
+[1405] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1467] bbl.pm:757> INFO - Output to main.bbl
+[1467] Biber.pm:130> WARN - Duplicate entry key: 'Kurniawan2013' in file 'bib1.bib', skipping ...
+[1467] Biber.pm:130> WARN - Duplicate entry key: 'Xie2016' in file 'bib1.bib', skipping ...
+[1467] Biber.pm:132> INFO - WARNINGS: 2
