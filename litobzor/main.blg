@@ -1,18 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[220] biber-MSWIN32:340> INFO - === 
-[289] Biber.pm:418> INFO - Reading 'main.bcf'
-[558] Biber.pm:972> INFO - Found 37 citekeys in bib section 0
-[585] Biber.pm:4383> INFO - Processing section 0
-[602] Biber.pm:4574> INFO - Looking for bibtex file 'bib1.bib' for section 0
-[741] bibtex.pm:1713> INFO - LaTeX decoding ...
-[987] bibtex.pm:1518> INFO - Found BibTeX data source 'bib1.bib'
-[1660] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1660] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1660] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
-[1660] Biber.pm:4209> INFO - No sort tailoring available for locale 'ru-RU'
-[1713] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1778] bbl.pm:757> INFO - Output to main.bbl
-[1778] Biber.pm:130> WARN - Duplicate entry key: 'Kurniawan2013' in file 'bib1.bib', skipping ...
-[1778] Biber.pm:130> WARN - Duplicate entry key: 'Xie2016' in file 'bib1.bib', skipping ...
-[1778] Biber.pm:132> INFO - WARNINGS: 2
+[194] biber-MSWIN32:340> INFO - === 
+[262] Biber.pm:418> INFO - Reading 'main.bcf'
+[472] Biber.pm:972> INFO - Found 37 citekeys in bib section 0
+[496] Biber.pm:4383> INFO - Processing section 0
+[520] Biber.pm:4574> INFO - Looking for bibtex file 'bib1.bib' for section 0
+[651] bibtex.pm:1713> INFO - LaTeX decoding ...
+[867] bibtex.pm:1518> INFO - Found BibTeX data source 'bib1.bib'
+[1377] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1377] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1377] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[1377] Biber.pm:4209> INFO - No sort tailoring available for locale 'ru-RU'
+[1426] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1481] bbl.pm:757> INFO - Output to main.bbl
+[1481] Biber.pm:130> WARN - Duplicate entry key: 'Kurniawan2013' in file 'bib1.bib', skipping ...
+[1481] Biber.pm:130> WARN - Duplicate entry key: 'Xie2016' in file 'bib1.bib', skipping ...
+[1481] Biber.pm:130> WARN - Duplicate entry key: 'Ghassemzadeh2010' in file 'bib1.bib', skipping ...
+[1481] Biber.pm:132> INFO - WARNINGS: 3
