@@ -570,46 +570,47 @@
       \endverb
       \keyw{Nafion\circledR,dynamic mechanical analysis,fuel cell,glass transition,ionomers,mechanical properties}
     \endentry
-    \entry{Chen2009}{article}{}
-      \name{author}{2}{}{%
-        {{hash=90ea174e8cf93b1be0a5f0d29098868d}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Cheng},
-           giveni={C\bibinitperiod}}}%
-        {{hash=05fa94392ecfe32c86be808885a6c141}{%
-           family={Fuller},
-           familyi={F\bibinitperiod},
-           given={Thomas\bibnamedelima F.},
-           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+    \entry{Yamaguchi2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=efd196e543a770802cb191d997d3d68b}{%
+           family={Yamaguchi},
+           familyi={Y\bibinitperiod},
+           given={Makoto},
+           giveni={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Elsevier}%
+        {John Wiley & Sons, Ltd}%
       }
-      \strng{namehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{fullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{bibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{authorbibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{authornamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
-      \strng{authorfullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{namehash}{efd196e543a770802cb191d997d3d68b}
+      \strng{fullhash}{efd196e543a770802cb191d997d3d68b}
+      \strng{bibnamehash}{efd196e543a770802cb191d997d3d68b}
+      \strng{authorbibnamehash}{efd196e543a770802cb191d997d3d68b}
+      \strng{authornamehash}{efd196e543a770802cb191d997d3d68b}
+      \strng{authorfullhash}{efd196e543a770802cb191d997d3d68b}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Controlling the activity of water in the reactant streams is critical both to the design of fuel-cell systems and to the useable life of membrane separators. In this study, fuel-cell durability tests were conducted under different levels of relative humidity. The emission rates of various degradation products such as HF, SO42- and TFA (trifluoroacetic acid) were determined as a function of water activity. The degradation of the membrane was accelerated as the level of water activity is reduced. The membranes become less conductive, more brittle and rigid after fuel-cell testing. ATR-FTIR investigations showed that the decomposition of the ether group in the middle of side chain corresponds well with the detection of a TFA product. Thermogravimetric analysis also showed a decrease in thermal stability after testing at lower humidity. Formation of cracks was observed in membranes degraded under conditions of low humidity. A model of membrane degradation based on the main chain unzipping process indicates that the mechanism changes with water activity. Finally, the representative reaction pathways in each degradation scheme were postulated. © 2009 Elsevier Ltd. All rights reserved.}
-      \field{issn}{0141-3910}
-      \field{issue}{9}
-      \field{journaltitle}{Polymer Degradation and Stability}
-      \field{month}{9}
-      \field{title}{The effect of humidity on the degradation of Nafion® membrane}
-      \field{volume}{94}
-      \field{year}{2009}
-      \field{pages}{1436\bibrangedash 1447}
-      \range{pages}{12}
+      \field{abstract}{Perfluorosulfonic acid ionomer membranes have been widely used as proton conducting membranes in various electrochemical processes such as polymer electrolyte fuel cells and water electrolysis. While their thermal stability has been studied by thermogravimetry and analysis of low molecular weight products, their decomposition mechanism is little understood. In this study a newly developed methodology of thermal desorption and pyrolysis in combination with direct analysis in real time mass spectrometry is applied for Nafion membrane. An ambient ionization source and a high-resolution time-of-flight mass spectrometer enabled unambiguous assignment of gaseous products. Thermal decomposition is initiated by side chain detachment above 350°C, which leaves carbonyls on the main chain at the locations of the side chains. Perfluoroalkanes are released above 400°C by main chain scission and their further decomposition products dominate above 500 °C. DFT calculation of reaction energies and barrier heights of model compounds support proposed decomposition reactions.}
+      \field{issn}{0021-8995}
+      \field{issue}{14}
+      \field{journaltitle}{Journal of Applied Polymer Science}
+      \field{month}{4}
+      \field{title}{Thermal desorption and pyrolysis direct analysis in real time mass spectrometry of Nafion membrane}
+      \field{volume}{138}
+      \field{year}{2021}
+      \field{pages}{50172}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1016/J.POLYMDEGRADSTAB.2009.05.016
+      \verb 10.1002/app.50172
       \endverb
-      \keyw{ATR-FTIR,Degradation mechanism,Nafion® membrane,Relative humidity,TGA}
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/app.50172
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/app.50172
+      \endverb
+      \keyw{batteries and fuel cells,copolymers,membranes,spectroscopy,theory and modeling}
     \endentry
     \entry{Nguyen2021}{article}{}
       \name{author}{6}{}{%
@@ -769,48 +770,6 @@
       \verb https://iopscience.iop.org/article/10.1149/2.008405eel
       \endverb
     \endentry
-    \entry{Yamaguchi2021}{article}{}
-      \name{author}{1}{}{%
-        {{hash=efd196e543a770802cb191d997d3d68b}{%
-           family={Yamaguchi},
-           familyi={Y\bibinitperiod},
-           given={Makoto},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {John Wiley & Sons, Ltd}%
-      }
-      \strng{namehash}{efd196e543a770802cb191d997d3d68b}
-      \strng{fullhash}{efd196e543a770802cb191d997d3d68b}
-      \strng{bibnamehash}{efd196e543a770802cb191d997d3d68b}
-      \strng{authorbibnamehash}{efd196e543a770802cb191d997d3d68b}
-      \strng{authornamehash}{efd196e543a770802cb191d997d3d68b}
-      \strng{authorfullhash}{efd196e543a770802cb191d997d3d68b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Perfluorosulfonic acid ionomer membranes have been widely used as proton conducting membranes in various electrochemical processes such as polymer electrolyte fuel cells and water electrolysis. While their thermal stability has been studied by thermogravimetry and analysis of low molecular weight products, their decomposition mechanism is little understood. In this study a newly developed methodology of thermal desorption and pyrolysis in combination with direct analysis in real time mass spectrometry is applied for Nafion membrane. An ambient ionization source and a high-resolution time-of-flight mass spectrometer enabled unambiguous assignment of gaseous products. Thermal decomposition is initiated by side chain detachment above 350°C, which leaves carbonyls on the main chain at the locations of the side chains. Perfluoroalkanes are released above 400°C by main chain scission and their further decomposition products dominate above 500 °C. DFT calculation of reaction energies and barrier heights of model compounds support proposed decomposition reactions.}
-      \field{issn}{0021-8995}
-      \field{issue}{14}
-      \field{journaltitle}{Journal of Applied Polymer Science}
-      \field{month}{4}
-      \field{title}{Thermal desorption and pyrolysis direct analysis in real time mass spectrometry of Nafion membrane}
-      \field{volume}{138}
-      \field{year}{2021}
-      \field{pages}{50172}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1002/app.50172
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/app.50172
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/app.50172
-      \endverb
-      \keyw{batteries and fuel cells,copolymers,membranes,spectroscopy,theory and modeling}
-    \endentry
     \entry{Kurniawan2013}{article}{}
       \name{author}{4}{}{%
         {{hash=70476138d8ac2cfe2144722c546c0364}{%
@@ -923,6 +882,47 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0013468603000264
       \endverb
       \keyw{Aluminium,Corrosion,End plates,Fluoride,PEFC,Stainless steel}
+    \endentry
+    \entry{Chen2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=90ea174e8cf93b1be0a5f0d29098868d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=05fa94392ecfe32c86be808885a6c141}{%
+           family={Fuller},
+           familyi={F\bibinitperiod},
+           given={Thomas\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{fullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{bibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{authorbibnamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{authornamehash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \strng{authorfullhash}{7da64b40c9b55f8e1ef5063c846c4b9c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Controlling the activity of water in the reactant streams is critical both to the design of fuel-cell systems and to the useable life of membrane separators. In this study, fuel-cell durability tests were conducted under different levels of relative humidity. The emission rates of various degradation products such as HF, SO42- and TFA (trifluoroacetic acid) were determined as a function of water activity. The degradation of the membrane was accelerated as the level of water activity is reduced. The membranes become less conductive, more brittle and rigid after fuel-cell testing. ATR-FTIR investigations showed that the decomposition of the ether group in the middle of side chain corresponds well with the detection of a TFA product. Thermogravimetric analysis also showed a decrease in thermal stability after testing at lower humidity. Formation of cracks was observed in membranes degraded under conditions of low humidity. A model of membrane degradation based on the main chain unzipping process indicates that the mechanism changes with water activity. Finally, the representative reaction pathways in each degradation scheme were postulated. © 2009 Elsevier Ltd. All rights reserved.}
+      \field{issn}{0141-3910}
+      \field{issue}{9}
+      \field{journaltitle}{Polymer Degradation and Stability}
+      \field{month}{9}
+      \field{title}{The effect of humidity on the degradation of Nafion® membrane}
+      \field{volume}{94}
+      \field{year}{2009}
+      \field{pages}{1436\bibrangedash 1447}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/J.POLYMDEGRADSTAB.2009.05.016
+      \endverb
+      \keyw{ATR-FTIR,Degradation mechanism,Nafion® membrane,Relative humidity,TGA}
     \endentry
     \entry{Mittal2007}{article}{}
       \name{author}{3}{}{%

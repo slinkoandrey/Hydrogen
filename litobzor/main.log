@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.18)  19 MAY 2022 15:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.18)  27 MAY 2022 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1954,6 +1954,9 @@ Package newfloat Info: New float `scheme' with options ` fileext = los , name =
 \newfloat@ftype=\count494
 Package newfloat Info: float type `scheme'=8 on input line 131.
 )
+(c:/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -2103,6 +2106,16 @@ Package mathastext Info: current meaning of amsmath \resetMathstrut@ saved on i
 nput line 6.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \celsius on input line 6.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 6.
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 6.
+Package gensymb Info: Using \Omega for \ohm on input line 6.
+
+Package gensymb Warning: Not defining \micro.
+
 <images/research_trends.jpg, id=42, 960.58875pt x 698.61pt>
 File: images/research_trends.jpg Graphic file (type jpg)
 <use images/research_trends.jpg>
@@ -2179,193 +2192,199 @@ LaTeX Font Warning: Font shape `LGR/cmr/m/up' undefined
 <<lgr.cmap>>
 Package hyperref Info: bookmark level for unknown scheme defaults to 0 on input
  line 53.
- [2]
+
+Overfull \hbox (37.68817pt too wide) in paragraph at lines 56--62
+[]\T2A/cmr/m/n/14.4 Некоторые тех-ни-ки, ис-поль-зу-е-мые для из-го-тов-ле-ния 
+мембранно-электродного
+ []
+
+[2]
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 71.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 74.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 71.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 74.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 71.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 74.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 99.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 102.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 99.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 102.
  [3] [4]
-Overfull \hbox (6.1586pt too wide) in paragraph at lines 143--145
+Overfull \hbox (6.1586pt too wide) in paragraph at lines 146--148
 [][] 
  []
 
 [5] [6]
-Overfull \hbox (24.62933pt too wide) in paragraph at lines 221--222
+Overfull \hbox (24.62933pt too wide) in paragraph at lines 224--225
 [][]\T2A/cmr/m/n/6 broad-band dielectric spectroscopy,32 EPR,8,9,30,33-40 FT-IR
 ,15,20,24,27,33,41-44 Raman,33 UV-visible,33 liquid24,45,46 and solid-state20,2
 4,42,47
  []
 
 [7]
-Overfull \hbox (0.18227pt too wide) in paragraph at lines 231--235
+Overfull \hbox (0.18227pt too wide) in paragraph at lines 234--238
 \T2A/cmr/m/up/14.4 мембранно-электродных бло-ков в рент-ге-нов-ском диа-па-зоне
  по-свя-ще-ны изу-
  []
 
 [8]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-244.
+247.
  (c:/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (14.78467pt too wide) in paragraph at lines 244--244
+Overfull \hbox (14.78467pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Nancy Garland, Thomas Benjamin и John Kopasz. ѕ  DOE Fuel 
 Cell Program:
  []
 
 
-Overfull \hbox (0.12967pt too wide) in paragraph at lines 244--244
+Overfull \hbox (0.12967pt too wide) in paragraph at lines 247--247
 \T2A/cmr/m/up/14.4 Durability Technical Targets and Testing Protocolsї. В: \T2A
 /cmr/m/it/14.4 ECS Transactions
  []
 
 
-Overfull \hbox (1.61264pt too wide) in paragraph at lines 244--244
+Overfull \hbox (1.61264pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Rony Escobar Yonoff и др. ѕ  Research trends in proton exc
 hange membrane
  []
 
 
-Overfull \hbox (22.90593pt too wide) in paragraph at lines 244--244
+Overfull \hbox (22.90593pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 T. Jahnke и др. ѕ  Performance and degradation of Proton E
 xchange Membrane
  []
 
 [9]
-Overfull \hbox (8.25024pt too wide) in paragraph at lines 244--244
+Overfull \hbox (8.25024pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Maryam Yazdanpour, Ashkan Esmaeilifar и Soosan Rowshanzami
 r. ѕ  Effects
  []
 
 
-Overfull \hbox (45.30605pt too wide) in paragraph at lines 244--244
+Overfull \hbox (45.30605pt too wide) in paragraph at lines 247--247
 \T2A/cmr/m/up/14.4 by ink-jet printing of Pt/MWCNTs electrocatalyst for PEMFCsї
 . В: \T2A/cmr/m/it/14.4 International
  []
 
 
-Overfull \hbox (6.21083pt too wide) in paragraph at lines 244--244
+Overfull \hbox (4.50208pt too wide) in paragraph at lines 247--247
+\T2A/cmr/m/up/14.4 Membrane Fuel Cell in Long-Term Operation: Main Influencing 
+Parameters
+ []
+
+[10]
+Overfull \hbox (9.29651pt too wide) in paragraph at lines 247--247
+[]\T2A/cmr/m/up/14.4 A. Kusoglu, M. Calabrese и A. Z. Weber. ѕ  Effect of Mecha
+nical Compression
+ []
+
+
+Overfull \hbox (18.76845pt too wide) in paragraph at lines 247--247
+[][]$\T2A/cmtt/m/n/14.4 https : / / linkinghub . elsevier . com / retrieve / pi
+i / S0026265X1200241X$[][]\T2A/cmr/m/up/14.4 . 
+ []
+
+
+Overfull \hbox (42.75008pt too wide) in paragraph at lines 247--247
+[]\T2A/cmr/m/up/14.4 A. Pozio и др. ѕ  Nafion degradation in PEFCs from end pla
+te iron contaminationї.
+ []
+
+
+Overfull \hbox (6.21083pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Cheng Chen и Thomas F. Fuller. ѕ  The effect of humidity o
 n the degradation
  []
 
 
-Overfull \hbox (6.35379pt too wide) in paragraph at lines 244--244
+Overfull \hbox (6.35379pt too wide) in paragraph at lines 247--247
 \T2A/cmr/m/up/14.4 2009), с. 1436^^V1447. \T2A/cmr/m/sc/14.4 issn\T2A/cmr/m/up/
 14.4 : 0141-3910. \T2A/cmr/m/sc/14.4 doi\T2A/cmr/m/up/14.4 : [][]$\T2A/cmtt/m/n
 /14.4 10 . 1016 / J . POLYMDEGRADSTAB .
  []
 
 
-Overfull \hbox (4.50208pt too wide) in paragraph at lines 244--244
-\T2A/cmr/m/up/14.4 Membrane Fuel Cell in Long-Term Operation: Main Influencing 
-Parameters
- []
-
-[10]
-Overfull \hbox (9.29651pt too wide) in paragraph at lines 244--244
-[]\T2A/cmr/m/up/14.4 A. Kusoglu, M. Calabrese и A. Z. Weber. ѕ  Effect of Mecha
-nical Compression
- []
-
-
-Overfull \hbox (18.76845pt too wide) in paragraph at lines 244--244
-[][]$\T2A/cmtt/m/n/14.4 https : / / linkinghub . elsevier . com / retrieve / pi
-i / S0026265X1200241X$[][]\T2A/cmr/m/up/14.4 . 
- []
-
-
-Overfull \hbox (42.75008pt too wide) in paragraph at lines 244--244
-[]\T2A/cmr/m/up/14.4 A. Pozio и др. ѕ  Nafion degradation in PEFCs from end pla
-te iron contaminationї.
- []
-
-
-Overfull \hbox (27.38629pt too wide) in paragraph at lines 244--244
+Overfull \hbox (27.38629pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Vishal O. Mittal, H. Russell Kunz и James M. Fenton. ѕ  Me
 mbrane Degradation
  []
 
 
-Overfull \hbox (40.58232pt too wide) in paragraph at lines 244--244
+Overfull \hbox (40.58232pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Atsushi Ohma, Shinji Yamamoto и Kazuhiko Shinohara. ѕ  Mem
 brane degradation
  []
 
-
-Overfull \hbox (9.5547pt too wide) in paragraph at lines 244--244
+[11]
+Overfull \hbox (9.5547pt too wide) in paragraph at lines 247--247
 \T2A/cmr/m/up/14.4 two accelerated Nafion\TS1/cmr/m/n/14.4 — \T2A/cmr/m/up/14.4
  degradation experimentsї. В: \T2A/cmr/m/it/14.4 Polymer Degradation
  []
 
-[11]
-Overfull \hbox (9.53911pt too wide) in paragraph at lines 244--244
+
+Overfull \hbox (9.53911pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Paul C. Okonkwo и др. ѕ  Nafion degradation mechanisms in 
 proton exchange
  []
 
 
-Overfull \hbox (4.32054pt too wide) in paragraph at lines 244--244
+Overfull \hbox (4.32054pt too wide) in paragraph at lines 247--247
 \T2A/cmr/m/up/14.4 exchange membrane fuel cell (PEMFC) system: A reviewї. В: \T
 2A/cmr/m/it/14.4 International
  []
 
 
-Overfull \hbox (9.30652pt too wide) in paragraph at lines 244--244
+Overfull \hbox (9.30652pt too wide) in paragraph at lines 247--247
 \T2A/cmr/m/up/14.4 tolerance of PdPt/C and PdPtRu/C anodes for PEMFCї. В: \T2A/
 cmr/m/it/14.4 Electrochimica
  []
 
 
-Overfull \hbox (35.52774pt too wide) in paragraph at lines 244--244
+Overfull \hbox (35.52774pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Martin Prokop, Monika Drakselova и Karel Bouzek. ѕ  Review
  of the experimental
  []
 
 
-Overfull \hbox (18.76845pt too wide) in paragraph at lines 244--244
+Overfull \hbox (18.76845pt too wide) in paragraph at lines 247--247
 [][]$\T2A/cmtt/m/n/14.4 https : / / linkinghub . elsevier . com / retrieve / pi
 i / S2451910320300235$[][]\T2A/cmr/m/up/14.4 . 
  []
 
 
-Overfull \hbox (11.80222pt too wide) in paragraph at lines 244--244
+Overfull \hbox (11.80222pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Kotaro Sasaki и др. ѕ  Synchrotron-Based in Situ Character
 ization of Carbon-
  []
 
 [12]
-Overfull \hbox (10.85474pt too wide) in paragraph at lines 244--244
+Overfull \hbox (10.85474pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Klaus Schmidt-Rohr и Qiang Chen. ѕ  Parallel cylindrical w
 ater nanochannels
  []
 
 
-Overfull \hbox (2.2233pt too wide) in paragraph at lines 244--244
+Overfull \hbox (2.2233pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Takashi Sasabe и др. ѕ  Soft X-ray visualization of the li
 quid water transport
  []
 
 [13]
-Overfull \hbox (51.55986pt too wide) in paragraph at lines 244--244
+Overfull \hbox (51.55986pt too wide) in paragraph at lines 247--247
 \T2A/cmr/m/up/14.4 SOFC Electrode Microstructures in Three-Dimensions at Operat
 ing Temperatureї.
  []
 
 [14]
-Overfull \hbox (14.37721pt too wide) in paragraph at lines 244--244
+Overfull \hbox (14.37721pt too wide) in paragraph at lines 247--247
 []\T2A/cmr/m/up/14.4 Julie Villanova и др. ѕ  X-ray fluorescence nano-imaging o
 f long-term operated
  []
@@ -2383,10 +2402,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49764 strings out of 478276
- 1080277 string characters out of 5850489
- 2095097 words of memory out of 5000000
- 67074 multiletter control sequences out of 15000+600000
+ 49824 strings out of 478276
+ 1081328 string characters out of 5850489
+ 2097210 words of memory out of 5000000
+ 67131 multiletter control sequences out of 15000+600000
  493659 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,20n,83p,2812b,2755s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2404,10 +2423,10 @@ st/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2021/texmf-dist/fonts/t
 ype1/public/cm-super/sfrm1440.pfb><c:/texlive/2021/texmf-dist/fonts/type1/publi
 c/cm-super/sfti1440.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super
 /sftt1440.pfb>
-Output written on main.pdf (15 pages, 441205 bytes).
+Output written on main.pdf (15 pages, 441685 bytes).
 PDF statistics:
- 395 PDF objects out of 1000 (max. 8388607)
- 353 compressed objects within 4 object streams
+ 396 PDF objects out of 1000 (max. 8388607)
+ 354 compressed objects within 4 object streams
  66 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
