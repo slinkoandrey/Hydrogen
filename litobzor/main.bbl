@@ -746,6 +746,7 @@
       \strng{authorbibnamehash}{f6233d3649ba90e636ced795633bfb6e}
       \strng{authornamehash}{90e98cfaac0bea1beee18fe42acc1af6}
       \strng{authorfullhash}{f6233d3649ba90e636ced795633bfb6e}
+      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -1363,6 +1364,106 @@
       \endverb
       \keyw{Catalyst characterisation,Degradation mechanism,Mathematical modelling,PEM fuel cell,Pt-based catalyst}
     \endentry
+    \entry{Kusoglu2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a607f320a9143fef5c5b7396e76437f8}{%
+           family={Kusoglu},
+           familyi={K\bibinitperiod},
+           given={Ahmet},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9046fd1477815694aa09e3d87cb88cf8}{%
+           family={Santare},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=158612ef5ae56a2a1ec5c4ce7d4218a5}{%
+           family={Karlsson},
+           familyi={K\bibinitperiod},
+           given={Anette\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{a006fe49cedaa8dbe56f9dcc050adc3c}
+      \strng{fullhash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
+      \strng{bibnamehash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
+      \strng{authorbibnamehash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
+      \strng{authornamehash}{a006fe49cedaa8dbe56f9dcc050adc3c}
+      \strng{authorfullhash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The swelling-driven fatigue behavior of polymer fuel cell membranes during relative humidity (RH) cycling is investigated. In particular, swelling-induced membrane stresses are obtained from a numerical model simulating fuel cell RH cycle tests, and compared to the lifetimes obtained experimentally from tests conducted in the absence of electrochemical effects. A strong correlation between the lifetimes of the membranes in the actual tests and model results is obtained. In general, higher RH (or swelling) amplitude results in larger stress amplitudes and shorter lifetime, that is, fewer cycles to failure. Tensile stresses are needed for forming local cavities in the membrane, which may eventually lead to craze formation. Cavitation is less likely to occur in compressed membrane at high humidities. The stress-lifetime plots for polymer fuel cell membranes exhibit similar features to those observed for other polymers. The crazing criterion for polymers suggests that craze initiation during RH cycling is more likely to occur in the low compression regions, such as under the channels, which is in agreement with experimental observations. © 2011 Wiley Periodicals, Inc.}
+      \field{issn}{1099-0488}
+      \field{issue}{21}
+      \field{journaltitle}{Journal of Polymer Science Part B: Polymer Physics}
+      \field{month}{11}
+      \field{title}{Aspects of fatigue failure mechanisms in polymer fuel cell membranes}
+      \field{volume}{49}
+      \field{year}{2011}
+      \field{pages}{1506\bibrangedash 1517}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/POLB.22336
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/polb.22336 https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.22336 https://onlinelibrary.wiley.com/doi/10.1002/polb.22336
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/polb.22336%20https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.22336%20https://onlinelibrary.wiley.com/doi/10.1002/polb.22336
+      \endverb
+      \keyw{PFSA membrane,failure,fatigue analysis,fatigue behavior,fuel cells,ionomers,mechanical properties}
+    \endentry
+    \entry{Fernandes2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cc6391ca5e89e770d431dd0183282578}{%
+           family={Fernandes},
+           familyi={F\bibinitperiod},
+           given={Adriano\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=dcca736a1120d01b907c9395dc571b7b}{%
+           family={Ticianelli},
+           familyi={T\bibinitperiod},
+           given={Edson\bibnamedelima Antonio},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{fullhash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{bibnamehash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{authorbibnamehash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{authornamehash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{authorfullhash}{b437d9e301c8da1015e4a3f53d671e96}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The operational characteristics of the Nafion® 212 membrane (N212) are investigated and compared to that of Nafion® 112 (N112), in proton exchange membrane fuel cells (PEMFCs). The consequences of the membranes' degradation are also investigated, after accelerated aging experiments using Fenton's method. Studies were performed by single cell polarization and impedance measurements, as a function of the cell and gas humidification temperatures and the gases pressures. Polarization curves show that the cell with N212 presents higher performance than that with N112, when operating under air cathode. FTIR analyses indicated that the chemical structure of Nafion does not change after accelerated degradation tests for both membranes. In spite of this, significant differences were observed in the morphology, mainly for N212. The electrochemical studies confirmed that the degradation of the membranes leads to a reduction of the fuel cell performance by increasing the gas crossover, mainly H2. Results also show that the N212 membrane may be less durable than N112. © 2009 Elsevier B.V. All rights reserved.}
+      \field{issn}{03787753}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Power Sources}
+      \field{month}{9}
+      \field{title}{A performance and degradation study of Nafion 212 membrane for proton exchange membrane fuel cells}
+      \field{volume}{193}
+      \field{year}{2009}
+      \field{pages}{547\bibrangedash 554}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.jpowsour.2009.04.038
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775309007241
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775309007241
+      \endverb
+      \keyw{Nafion 112,Nafion 212,Nafion degradation,PEM fuel cell}
+    \endentry
     \entry{Sasaki2016}{article}{}
       \name{author}{4}{}{%
         {{hash=eab8234de7ef8d430eef14f7410daae7}{%
@@ -1395,8 +1496,8 @@
       \strng{authorbibnamehash}{d1f3e38e0ea77be7489a1179912b3590}
       \strng{authornamehash}{d1f3e38e0ea77be7489a1179912b3590}
       \strng{authorfullhash}{265392e6b67b763e40d434a97c8a7438}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A detailed understanding of oxidation/dissolution mechanisms of Pt is critical in designing durable catalysts for the oxygen reduction reaction (ORR), but exact mechanisms remain unclear. The present work explores the oxidation/dissolution of Pt and Pt monolayer (ML) electrocatalysts over a wide range of applied potentials using cells that facilitate in situ measurements by combining X-ray absorption spectroscopy (XAS) and X-ray diffraction (XRD) measurements. The X-ray absorption near edge structure (XANES) measurement demonstrated that Pt nanoparticle surfaces were oxidized from metallic Pt to α-PtO2-type oxide during the potential sweep from 0.41 to 1.5 V, and the transition state of O or OH adsorption on Pt and the onset of the place exchange process were revealed by the delta mu (Δμ) method. Only the top layers of Pt nanoparticles were oxidized, while the inner Pt atoms remained intact. At a higher potential over 1.9 V, α-PtO2-type surface oxides dissolve due to local acidification caused by the oxygen evolution reaction and carbon corrosion. Pt oxidation of PtML on the Pd nanoparticle electrocatalyst is considerably hampered compared with the Pt/C catalyst, presumably because preferential Pd oxidation proceeds at the defects in Pt MLs up to 0.91 V and through O penetrated through the Pt MLs by the place exchange process above 1.11 V.}
@@ -1442,8 +1543,8 @@
       \strng{authorbibnamehash}{231de687d029ca7343021206192a3588}
       \strng{authornamehash}{231de687d029ca7343021206192a3588}
       \strng{authorfullhash}{231de687d029ca7343021206192a3588}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The structure of the Nafion ionomer used in proton-exchange membranes of H 2 /O 2 fuel cells has long been contentious. Using a recently introduced algorithm, we have quantitatively simulated previously published small-angle scattering data of hydrated Nafion. The characteristic ionomer peak arises from long parallel but otherwise randomly packed water channels surrounded by partially hydrophilic side branches, forming inverted-micelle cylinders. At 20 vol\% water, the water channels have diameters of between 1.8 and 3.5 nm, with an average of 2.4 nm. Nafion crystallites (10 vol\%), which form physical crosslinks that are crucial for the mechanical properties of Nafion films, are elongated and parallel to the water channels, with cross-sections of (5 nm) 2. Simulations for various other models of Nafion, including Gierkes cluster and the polymer-bundle model, do not match the scattering data. The new model can explain important features of Nafion, including fast diffusion of water and protons through Nafion and its persistence at lowtemperatures. © 2008 Nature Publishing Group.}
@@ -2062,8 +2163,8 @@
       \strng{authornamehash}{3603e7b102a8b4394ccfa4083a3df499}
       \strng{authorfullhash}{69f5037e3810b5ea6ea72dde8e561e06}
       \field{extraname}{3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The proliferation of hydrogen fuel cell systems is hindered by a degradation of the platinum catalyst. Here, we provide a device-level assessment of the catalyst degradation phenomena and its coupling to nanoscale hydration gradients, using advanced operando X-ray scattering tomography tailored for device-scale imaging. Gradients formed inside the fuel cell produce a heterogeneous degradation of the catalyst nanostructure, which can be linked to the flow field design and water distribution in the cell. Striking differences in catalyst degradation are observed between operating fuel cell devices and the liquid cell routinely used for catalyst stability studies, highlighting the crucial impact of the complex operating environment on the catalyst degradation phenomena. This degradation knowledge gap accentuates the necessity of multimodal, in situ characterization of real devices when assessing the performance and durability of electrocatalysts and, more generally, electrochemically active phases used in energy conversion and storage technologies.}
@@ -2124,8 +2225,8 @@
       \strng{authornamehash}{9d8ac71697bc4b59e7d015a7c42e9e12}
       \strng{authorfullhash}{d11528232413253c92ae7245d274589f}
       \field{extraname}{1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Solid Oxide Fuel Cell (SOFC) is a high-performance electrochemical device for energy conversion. A single cell is composed of five layers made of different ceramic materials: anode support, anode functional layer, electrolyte, cathode functional layer and cathode. The mechanical integrity of the cell is a major issue during its lifetime, especially for the electrolyte layer. Damage of the cells is mainly due to the high operating temperature, the "redox" behaviour of the anode and the brittleness of the involved materials. Since residual stresses are known to play a significant role in the damage evolution, it is important to determine them. For this purpose, residual stresses in an anode-supported planar SOFC were measured by X-ray diffraction. Firstly, macroscopic stresses in each phase of each layer were studied using the sin2ψ method on a laboratory X-ray goniometer at room temperature. This technique enables the calculation of residual stress of the material from the measurement of the crystal lattice deformation. The electrolyte has been found under bi-axial compressive stress of -920 MPa. Secondly, X-ray measurements controlling depth penetration were made in the electrolyte using grazing incidence method. The results show that the stress is not homogenous in the layer. The first five micrometers of the electrolyte have been found less constrained (-750 MPa) than the complete layer, suggesting a gradient of deformation in the electrolyte from the interface with the Anode Functional Layer to the free surface. Finally, local stress measurements were made on the electrolyte layer by X-ray synchrotron radiation that allows high accuracy measurement on the (sub-) micrometer scale. Polychromatic and monochromatic beams are used to determine the complete strain tensor from grain to grain in the electrolyte. First results confirm the macroscopic stress trend of the electrolyte. These X-ray techniques at different scales will contribute to a better understanding of the residual stress in the electrolyte layer and thus to the involved damage mechanisms. © 2009 Elsevier B.V. All rights reserved.}
@@ -2196,8 +2297,8 @@
       \strng{authorbibnamehash}{7e30c54d6b4f85568a4c749d3ad6fe6f}
       \strng{authornamehash}{7e30c54d6b4f85568a4c749d3ad6fe6f}
       \strng{authorfullhash}{12d86045ba7b60a27f3db6937bbbc6a6}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In recent years, developments in tomography tools have provided unprecedented insight into the microstructure of electrodes for solid oxide fuel cells, enabling researchers to establish direct links between electrode microstructure and electrochemical performance. Here we present results of high resolution, synchrotron X-ray nano computed tomography experiments, which have enabled microstructural characterisation of a mixed ionic electronic conducting lanthanum strontium cobalt iron oxide (LSCF) cathode with sub-50nm resolution at operating temperature. Using the uniquely non-destructive nano-CT platform, it is possible to characterise microstructural evolution processes associated with heating and operation in-situ. © 2011 The Electrochemical Society.}
@@ -2267,8 +2368,8 @@
       \strng{authorbibnamehash}{ea3452a5a645a1c1fe6efa55b86dd26c}
       \strng{authornamehash}{ea3452a5a645a1c1fe6efa55b86dd26c}
       \strng{authorfullhash}{299478ad71a7cb7e08f3edfd6f2ebd05}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A high-resolution, nondestructive X-ray computed tomography (XCT) technique is applied to image the three-dimensional (3D) microstructure of a solid oxide fuel cell (SOFC) composed of a solid yttria-stabilized zirconia (YSZ) electrolyte and a porous nickel YSZ (Ni-YSZ) anode. The X-ray microscope uses the 8 keV Cu K alpha line from a laboratory X-ray source, with a reflective condenser optic lens providing a spatial resolution of 42.7 nm. The reconstructed volume data is visualized as 3D images and further postprocessed in binary-image format to obtain structural parameters. The porosity is calculated using a voxel counting method, and tortuosity is evaluated by solving the Laplace equation. A 3D representation of the microstructure is used to calculate true structural parameters and carry out a detailed study of the gas transport within an SOFC electrode at the pore scale. Simulation of multicomponent mass transport and electrochemical reactions in the anode microstructure using the XCT data as geometric input illustrate the impact of this technique on SOFC modeling. (c) 2008 The Electrochemical Society.}
