@@ -1130,6 +1130,106 @@
       \verb https://pubs.acs.org/doi/10.1021/jp102533v
       \endverb
     \endentry
+    \entry{Kusoglu2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a607f320a9143fef5c5b7396e76437f8}{%
+           family={Kusoglu},
+           familyi={K\bibinitperiod},
+           given={Ahmet},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9046fd1477815694aa09e3d87cb88cf8}{%
+           family={Santare},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=158612ef5ae56a2a1ec5c4ce7d4218a5}{%
+           family={Karlsson},
+           familyi={K\bibinitperiod},
+           given={Anette\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{a006fe49cedaa8dbe56f9dcc050adc3c}
+      \strng{fullhash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
+      \strng{bibnamehash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
+      \strng{authorbibnamehash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
+      \strng{authornamehash}{a006fe49cedaa8dbe56f9dcc050adc3c}
+      \strng{authorfullhash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The swelling-driven fatigue behavior of polymer fuel cell membranes during relative humidity (RH) cycling is investigated. In particular, swelling-induced membrane stresses are obtained from a numerical model simulating fuel cell RH cycle tests, and compared to the lifetimes obtained experimentally from tests conducted in the absence of electrochemical effects. A strong correlation between the lifetimes of the membranes in the actual tests and model results is obtained. In general, higher RH (or swelling) amplitude results in larger stress amplitudes and shorter lifetime, that is, fewer cycles to failure. Tensile stresses are needed for forming local cavities in the membrane, which may eventually lead to craze formation. Cavitation is less likely to occur in compressed membrane at high humidities. The stress-lifetime plots for polymer fuel cell membranes exhibit similar features to those observed for other polymers. The crazing criterion for polymers suggests that craze initiation during RH cycling is more likely to occur in the low compression regions, such as under the channels, which is in agreement with experimental observations. © 2011 Wiley Periodicals, Inc.}
+      \field{issn}{1099-0488}
+      \field{issue}{21}
+      \field{journaltitle}{Journal of Polymer Science Part B: Polymer Physics}
+      \field{month}{11}
+      \field{title}{Aspects of fatigue failure mechanisms in polymer fuel cell membranes}
+      \field{volume}{49}
+      \field{year}{2011}
+      \field{pages}{1506\bibrangedash 1517}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/POLB.22336
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/polb.22336 https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.22336 https://onlinelibrary.wiley.com/doi/10.1002/polb.22336
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/polb.22336%20https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.22336%20https://onlinelibrary.wiley.com/doi/10.1002/polb.22336
+      \endverb
+      \keyw{PFSA membrane,failure,fatigue analysis,fatigue behavior,fuel cells,ionomers,mechanical properties}
+    \endentry
+    \entry{Fernandes2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cc6391ca5e89e770d431dd0183282578}{%
+           family={Fernandes},
+           familyi={F\bibinitperiod},
+           given={Adriano\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=dcca736a1120d01b907c9395dc571b7b}{%
+           family={Ticianelli},
+           familyi={T\bibinitperiod},
+           given={Edson\bibnamedelima Antonio},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{fullhash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{bibnamehash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{authorbibnamehash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{authornamehash}{b437d9e301c8da1015e4a3f53d671e96}
+      \strng{authorfullhash}{b437d9e301c8da1015e4a3f53d671e96}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The operational characteristics of the Nafion® 212 membrane (N212) are investigated and compared to that of Nafion® 112 (N112), in proton exchange membrane fuel cells (PEMFCs). The consequences of the membranes' degradation are also investigated, after accelerated aging experiments using Fenton's method. Studies were performed by single cell polarization and impedance measurements, as a function of the cell and gas humidification temperatures and the gases pressures. Polarization curves show that the cell with N212 presents higher performance than that with N112, when operating under air cathode. FTIR analyses indicated that the chemical structure of Nafion does not change after accelerated degradation tests for both membranes. In spite of this, significant differences were observed in the morphology, mainly for N212. The electrochemical studies confirmed that the degradation of the membranes leads to a reduction of the fuel cell performance by increasing the gas crossover, mainly H2. Results also show that the N212 membrane may be less durable than N112. © 2009 Elsevier B.V. All rights reserved.}
+      \field{issn}{03787753}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Power Sources}
+      \field{month}{9}
+      \field{title}{A performance and degradation study of Nafion 212 membrane for proton exchange membrane fuel cells}
+      \field{volume}{193}
+      \field{year}{2009}
+      \field{pages}{547\bibrangedash 554}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.jpowsour.2009.04.038
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775309007241
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775309007241
+      \endverb
+      \keyw{Nafion 112,Nafion 212,Nafion degradation,PEM fuel cell}
+    \endentry
     \entry{Okonkwo2021_I}{article}{}
       \name{author}{4}{}{%
         {{hash=aa11960f4f987a39240c0fc4dfe5052e}{%
@@ -1288,8 +1388,8 @@
       \strng{authorbibnamehash}{b44e144aefbb04a1e4f1fdfe56f19eb0}
       \strng{authornamehash}{c45d5ef85e2bd7d9b4e7bf169272d4df}
       \strng{authorfullhash}{b44e144aefbb04a1e4f1fdfe56f19eb0}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The performance of H2/O2 proton exchange membrane fuel cells (PEMFCs) fed with CO-contaminated hydrogen was investigated for anodes with PdPt/C and PdPtRu/C electrocatalysts. The physicochemical properties of the catalysts were characterized by energy dispersive X-ray (EDX) analyses, X-ray diffraction (XRD) and "in situ" X-ray absorption near edge structure (XANES). Experiments were conducted in electrochemical half and single cells by cyclic voltammetry (CV) and I-V polarization measurements, while DEMS was employed to verify the formation of CO2 at the PEMFC anode outlet. A quite high performance was achieved for the PEMFC fed with H2 + 100 ppm CO with the PdPt/C and PdPtRu/C anodes containing 0.4 mg metal cm-2, with the cell presenting potential losses below 200 mV at 1 A cm-2, with respect to the system fed with pure H2. For the PdPt/C catalysts no CO2 formation was seen at the PEMFC anode outlet, indicating that the CO tolerance is improved due to the existence of more free surface sites for H2 electrooxidation, probably due to a lower Pd-CO interaction compared to pure Pd or Pt. For PdPtRu/C the CO tolerance may also have a contribution from the bifunctional mechanism, as shown by the presence of CO2 in the PEMFC anode outlet. © 2008 Elsevier Ltd. All rights reserved.}
@@ -1340,8 +1440,8 @@
       \strng{authorbibnamehash}{bc481db2450e4f4dd154842deed8423b}
       \strng{authornamehash}{2ff2d926e61160dc3d76e8641d88c5ae}
       \strng{authorfullhash}{bc481db2450e4f4dd154842deed8423b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The degradation of Pt-based catalyst severely limits the lifetime of a fuel cell with a proton-conductive polymer electrolyte membrane (PEM FC) operating with H2 as the fuel and O2 as the oxidant. In this paper, a review of recent progress in the description of degradation mechanisms by experimental techniques and a prediction of the extent of degradation by means of mathematical modelling are presented. Significant progress in the development of PEM FCs has been achieved both by basic research and advanced single-cell testing, often combining electrochemical and in situ analytical methods. The intensity of degradation processes is strongly dependent on operating conditions and, consequently, their experimental investigation requires a different scientific approach for each type of PEM FC. Mathematical modelling complements experimental studies to describe the individual degradation mechanisms.}
@@ -1363,106 +1463,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S2451910320300235
       \endverb
       \keyw{Catalyst characterisation,Degradation mechanism,Mathematical modelling,PEM fuel cell,Pt-based catalyst}
-    \endentry
-    \entry{Kusoglu2011}{article}{}
-      \name{author}{3}{}{%
-        {{hash=a607f320a9143fef5c5b7396e76437f8}{%
-           family={Kusoglu},
-           familyi={K\bibinitperiod},
-           given={Ahmet},
-           giveni={A\bibinitperiod}}}%
-        {{hash=9046fd1477815694aa09e3d87cb88cf8}{%
-           family={Santare},
-           familyi={S\bibinitperiod},
-           given={Michael\bibnamedelima H.},
-           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=158612ef5ae56a2a1ec5c4ce7d4218a5}{%
-           family={Karlsson},
-           familyi={K\bibinitperiod},
-           given={Anette\bibnamedelima M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {John Wiley & Sons, Ltd}%
-      }
-      \strng{namehash}{a006fe49cedaa8dbe56f9dcc050adc3c}
-      \strng{fullhash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
-      \strng{bibnamehash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
-      \strng{authorbibnamehash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
-      \strng{authornamehash}{a006fe49cedaa8dbe56f9dcc050adc3c}
-      \strng{authorfullhash}{b7109b1d76a9ccd9e20521ae6cbfb5ad}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The swelling-driven fatigue behavior of polymer fuel cell membranes during relative humidity (RH) cycling is investigated. In particular, swelling-induced membrane stresses are obtained from a numerical model simulating fuel cell RH cycle tests, and compared to the lifetimes obtained experimentally from tests conducted in the absence of electrochemical effects. A strong correlation between the lifetimes of the membranes in the actual tests and model results is obtained. In general, higher RH (or swelling) amplitude results in larger stress amplitudes and shorter lifetime, that is, fewer cycles to failure. Tensile stresses are needed for forming local cavities in the membrane, which may eventually lead to craze formation. Cavitation is less likely to occur in compressed membrane at high humidities. The stress-lifetime plots for polymer fuel cell membranes exhibit similar features to those observed for other polymers. The crazing criterion for polymers suggests that craze initiation during RH cycling is more likely to occur in the low compression regions, such as under the channels, which is in agreement with experimental observations. © 2011 Wiley Periodicals, Inc.}
-      \field{issn}{1099-0488}
-      \field{issue}{21}
-      \field{journaltitle}{Journal of Polymer Science Part B: Polymer Physics}
-      \field{month}{11}
-      \field{title}{Aspects of fatigue failure mechanisms in polymer fuel cell membranes}
-      \field{volume}{49}
-      \field{year}{2011}
-      \field{pages}{1506\bibrangedash 1517}
-      \range{pages}{12}
-      \verb{doi}
-      \verb 10.1002/POLB.22336
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/polb.22336 https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.22336 https://onlinelibrary.wiley.com/doi/10.1002/polb.22336
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/full/10.1002/polb.22336%20https://onlinelibrary.wiley.com/doi/abs/10.1002/polb.22336%20https://onlinelibrary.wiley.com/doi/10.1002/polb.22336
-      \endverb
-      \keyw{PFSA membrane,failure,fatigue analysis,fatigue behavior,fuel cells,ionomers,mechanical properties}
-    \endentry
-    \entry{Fernandes2009}{article}{}
-      \name{author}{2}{}{%
-        {{hash=cc6391ca5e89e770d431dd0183282578}{%
-           family={Fernandes},
-           familyi={F\bibinitperiod},
-           given={Adriano\bibnamedelima C.},
-           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=dcca736a1120d01b907c9395dc571b7b}{%
-           family={Ticianelli},
-           familyi={T\bibinitperiod},
-           given={Edson\bibnamedelima Antonio},
-           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{b437d9e301c8da1015e4a3f53d671e96}
-      \strng{fullhash}{b437d9e301c8da1015e4a3f53d671e96}
-      \strng{bibnamehash}{b437d9e301c8da1015e4a3f53d671e96}
-      \strng{authorbibnamehash}{b437d9e301c8da1015e4a3f53d671e96}
-      \strng{authornamehash}{b437d9e301c8da1015e4a3f53d671e96}
-      \strng{authorfullhash}{b437d9e301c8da1015e4a3f53d671e96}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The operational characteristics of the Nafion® 212 membrane (N212) are investigated and compared to that of Nafion® 112 (N112), in proton exchange membrane fuel cells (PEMFCs). The consequences of the membranes' degradation are also investigated, after accelerated aging experiments using Fenton's method. Studies were performed by single cell polarization and impedance measurements, as a function of the cell and gas humidification temperatures and the gases pressures. Polarization curves show that the cell with N212 presents higher performance than that with N112, when operating under air cathode. FTIR analyses indicated that the chemical structure of Nafion does not change after accelerated degradation tests for both membranes. In spite of this, significant differences were observed in the morphology, mainly for N212. The electrochemical studies confirmed that the degradation of the membranes leads to a reduction of the fuel cell performance by increasing the gas crossover, mainly H2. Results also show that the N212 membrane may be less durable than N112. © 2009 Elsevier B.V. All rights reserved.}
-      \field{issn}{03787753}
-      \field{issue}{2}
-      \field{journaltitle}{Journal of Power Sources}
-      \field{month}{9}
-      \field{title}{A performance and degradation study of Nafion 212 membrane for proton exchange membrane fuel cells}
-      \field{volume}{193}
-      \field{year}{2009}
-      \field{pages}{547\bibrangedash 554}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1016/j.jpowsour.2009.04.038
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775309007241
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775309007241
-      \endverb
-      \keyw{Nafion 112,Nafion 212,Nafion degradation,PEM fuel cell}
     \endentry
     \entry{Sasaki2016}{article}{}
       \name{author}{4}{}{%
@@ -2020,8 +2020,8 @@
       \strng{authornamehash}{3603e7b102a8b4394ccfa4083a3df499}
       \strng{authorfullhash}{034b6989cdab32f11c9db1cf1aa06fd9}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The processes leading to degradation of Pt nanoparticles inside commercial hydrogen fuel cell catalyst layers are studied in situ, using time-resolved high-energy powder X-ray diffraction. Advances in electrochemical cell design significantly increase the quality of diffraction patterns obtained at practical catalyst loadings at high temporal resolution and allow the use of advanced techniques including differential pair distribution function analysis. Rietveld refinement of the lattice parameter and peak intensities during cyclic voltammetry or potential steps allow the separate steps of oxygen electroadsorption and place exchange in the Pt oxide growth mechanism to be clearly differentiated. The slow kinetics of the place-exchange process limit the oxide growth under standard laboratory conditions, decoupling the surface chemistry of the nanoparticles from the applied potential and directly affecting the outcome of accelerated stress tests measured with different cycling schemes. High-speed diffraction measurements are also used to follow the oxide reduction reaction, which is much faster. Refined structural parameters from these data show direct evidence for a transient, disordered platinum intermediate created during reduction of the oxide, which is likely responsible for catalyst dissolution when cycling to high potentials.}
